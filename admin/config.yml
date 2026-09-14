@@ -24,12 +24,12 @@ collections:
       - { label: "Identifiant (unique, format pXX — ex. p41)", name: "id", widget: "string", hint: "Ne modifiez jamais l'identifiant d'un produit existant : il est utilisé ailleurs sur le site (paquets, recommandations)." }
       - label: "Catégorie"
         name: "category"
-        widget: "select"
-        options:
-          - { label: "Fontaines à bonbonne", value: "bonbonne" }
-          - { label: "Fontaines sur réseau", value: "reseau" }
-          - { label: "Cartouches & filtres", value: "cartouche" }
-          - { label: "Accessoires & entretien", value: "accessoire" }
+        widget: "relation"
+        collection: "categories"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: "{{slug}}"
+        hint: "La liste vient directement de l'onglet Catégories — toute catégorie que vous y créez apparaît automatiquement ici."
       - label: "Icône"
         name: "icon"
         widget: "select"
@@ -65,13 +65,15 @@ collections:
     label: "Catégories"
     label_singular: "Catégorie"
     folder: "content/categories"
-    create: false
+    create: true
     delete: false
+    slug: "{{fields.key}}"
     identifier_field: "title"
     summary: "{{title}}"
     fields:
       - { label: "Ordre d'affichage (1 = premier)", name: "order", widget: "number", value_type: "int" }
-      - { label: "Slug (URL, ne pas modifier)", name: "slug", widget: "string" }
+      - { label: "Identifiant technique (uniquement pour une NOUVELLE catégorie)", name: "key", widget: "string", hint: "Sans accent, sans espace, en minuscules (ex. filtres-douche). Pour une catégorie déjà existante, ne le modifiez jamais — cela casserait le lien avec ses produits." }
+      - { label: "Slug (URL de la page catégorie)", name: "slug", widget: "string", hint: "Ex. fontaines-bonbonne → la page sera à /fontaines-bonbonne" }
       - { label: "Titre", name: "title", widget: "string" }
       - label: "Icône"
         name: "icon"
