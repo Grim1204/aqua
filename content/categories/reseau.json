@@ -1,5 +1,6 @@
 {
   "order": 2,
+  "key": "reseau",
   "slug": "fontaines-reseau",
   "title": "Fontaines sur réseau",
   "icon": "p-network",
