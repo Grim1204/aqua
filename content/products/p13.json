@@ -1,0 +1,45 @@
+{
+  "id": "p13",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58402-home_default/canaletas-fontaine-a-eau-sur-pied-t-6alv.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau sur Pied T-6ALV",
+  "price": 819,
+  "rating": 4.8,
+  "reviews": 51,
+  "specLine": "Sur pied inox · 30 L · grande capacité · réseau",
+  "shortDesc": "Version grande capacité de la gamme ALV, avec un réservoir de 30 L pour les lieux à forte affluence. Habillage acier inoxydable et raccordement réseau direct.",
+  "specs": [
+    {
+      "label": "Type d'installation",
+      "value": "Sur pied, autoportante"
+    },
+    {
+      "label": "Habillage",
+      "value": "Acier inoxydable"
+    },
+    {
+      "label": "Capacité réservoir",
+      "value": "30 L"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Oui, groupe compresseur"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Réseau d'eau froide direct"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La T-6ALV reprend les codes esthétiques de la gamme ALV avec une capacité nettement supérieure : son réservoir de 30 L en fait un choix pertinent pour les établissements où la demande en eau fraîche est soutenue, comme les grands restaurants, les cantines ou les halls d'accueil très fréquentés.",
+    "Son habillage en acier inoxydable assure une finition élégante et facile d'entretien, quel que soit le rythme d'utilisation. Autoportante, elle se raccorde directement au réseau d'eau froide, sans installation complexe ni bonbonne à gérer.",
+    "Grâce à sa grande capacité, elle limite les temps de récupération entre deux services et reste fraîche même en cas de forte sollicitation. Un contrôle régulier du filtre et un nettoyage de la vasque suffisent à en assurer le bon fonctionnement au quotidien."
+  ]
+}

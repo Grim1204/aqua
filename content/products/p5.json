@@ -1,0 +1,45 @@
+{
+  "id": "p5",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58390-home_default/canaletas-fontaine-a-eau-sur-pied-m-2ape.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau sur Pied M-2APE",
+  "price": 455.4,
+  "rating": 4.6,
+  "reviews": 19,
+  "specLine": "Sur pied · usage extérieur · déclenchement à pédale",
+  "shortDesc": "Fontaine sur pied pensée pour l'extérieur, actionnée au pied pour un usage mains libres. Sans réfrigération, elle convient aux parcs, stades et cours d'école.",
+  "specs": [
+    {
+      "label": "Type d'installation",
+      "value": "Sur pied, autoportante, fixation au sol"
+    },
+    {
+      "label": "Usage",
+      "value": "Extérieur (parcs, stades, cours)"
+    },
+    {
+      "label": "Déclenchement",
+      "value": "À pédale, mains libres"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Non, eau à température du réseau"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Eau froide réseau, évacuation à prévoir"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-2APE est une fontaine autoportante conçue pour vivre dehors : parcs municipaux, stades, cours d'école ou aires de pique-nique. Son pied robuste lui permet d'être installée en plein air sans support mural, à l'endroit le plus pratique pour les usagers.",
+    "Son déclenchement à pédale est un vrai atout en usage extérieur et collectif : on active l'eau du pied, mains libres, ce qui limite le contact avec le robinet et convient parfaitement après une activité sportive. Le raccordement se fait directement sur l'arrivée d'eau froide du réseau, avec une évacuation à prévoir au sol lors de l'installation.",
+    "Sans groupe froid, elle ne demande aucune alimentation électrique et reste simple à entretenir : c'est une solution pensée pour la durabilité extérieure, avec un entretien qui se limite à un nettoyage régulier de la vasque et un contrôle de la pédale."
+  ]
+}

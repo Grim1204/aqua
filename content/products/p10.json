@@ -1,0 +1,45 @@
+{
+  "id": "p10",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58371-home_default/canaletas-fontaine-a-eau-m-72id.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Réseau M-72ID",
+  "price": 709.2,
+  "rating": 4.7,
+  "reviews": 63,
+  "specLine": "Réseau direct · eau chaude et froide · 18 L",
+  "shortDesc": "Fontaine réseau double température : eau froide réfrigérée et eau chaude instantanée, pratique pour préparer thé, café ou biberon rapidement en collectivité.",
+  "specs": [
+    {
+      "label": "Raccordement",
+      "value": "Réseau d'eau froide direct"
+    },
+    {
+      "label": "Capacité réservoir (froid)",
+      "value": "18 L"
+    },
+    {
+      "label": "Distribution eau chaude",
+      "value": "Oui, thermoplongeur intégré"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Oui, groupe compresseur"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240V"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-72ID ajoute une fonction précieuse à la fontaine réseau classique : la distribution d'eau chaude, en plus de l'eau froide réfrigérée. C'est un vrai plus dans les salles de pause, les bureaux ou les espaces d'accueil où l'on prépare régulièrement thé, café soluble ou tisane sans faire bouillir de l'eau à part.",
+    "Le fonctionnement reste simple : l'eau froide passe par le groupe compresseur classique, tandis qu'un thermoplongeur intégré chauffe l'eau à la demande pour la sortie chaude. Le raccordement au réseau et à l'électricité se fait comme sur les autres modèles ID, sans installation complexe.",
+    "Pratique en collectivité, elle permet aussi de préparer rapidement un biberon ou une boisson chaude sans bouilloire séparée. Un entretien régulier du filtre et un détartrage occasionnel du circuit chaud suffisent à garder des performances constantes dans le temps."
+  ]
+}

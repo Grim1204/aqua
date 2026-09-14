@@ -1,0 +1,45 @@
+{
+  "id": "p11",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58403-home_default/canaletas-fontaine-a-eau-sur-pied-t-7alv.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau sur Pied T-7ALV",
+  "price": 711,
+  "rating": 4.6,
+  "reviews": 29,
+  "specLine": "Sur pied inox · 18 L · réfrigérée · réseau direct",
+  "shortDesc": "Fontaine sur pied à l'habillage acier inoxydable, raccordée directement au réseau. Son allure sobre s'intègre aussi bien en restaurant qu'en accueil d'entreprise.",
+  "specs": [
+    {
+      "label": "Type d'installation",
+      "value": "Sur pied, autoportante"
+    },
+    {
+      "label": "Habillage",
+      "value": "Acier inoxydable"
+    },
+    {
+      "label": "Capacité réservoir",
+      "value": "18 L"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Oui, groupe compresseur"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Réseau d'eau froide direct"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La T-7ALV mise sur la sobriété et la solidité : son habillage en acier inoxydable lui donne une finition soignée qui s'intègre naturellement dans un restaurant, un hall d'accueil ou une salle de réunion, sans détonner avec le mobilier environnant.",
+    "Autoportante, elle ne nécessite aucune fixation murale : il suffit de la positionner à l'endroit voulu et de la raccorder au réseau d'eau froide. Son réservoir de 18 L couplé au groupe compresseur assure une eau fraîche disponible en continu, adaptée à un usage régulier.",
+    "L'acier inoxydable présente l'avantage d'être facile à nettoyer et de bien vieillir dans le temps, même en cas de passage fréquent. C'est un choix apprécié des professionnels qui veulent une fontaine à la fois esthétique et durable."
+  ]
+}

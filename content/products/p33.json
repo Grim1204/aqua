@@ -1,0 +1,44 @@
+{
+  "id": "p33",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/64122-home_default/canaletas-porte-verres-pour-fontaine-a-eau.jpg",
+  "brand": "Canaletas",
+  "name": "Porte Verres pour Fontaine à Eau",
+  "price": 62.4,
+  "rating": 4.6,
+  "reviews": 142,
+  "specLine": "Acier inoxydable · 95 gobelets · fixation murale ou sur fontaine",
+  "shortDesc": "Porte-verres en acier inoxydable pour ranger et distribuer jusqu'à 95 gobelets à proximité de la fontaine. Un accessoire pratique et hygiénique pour les espaces d'accueil et de restauration.",
+  "specs": [
+    {
+      "label": "Matériau",
+      "value": "Acier inoxydable brossé"
+    },
+    {
+      "label": "Capacité",
+      "value": "95 gobelets"
+    },
+    {
+      "label": "Fixation",
+      "value": "Murale ou latérale sur fontaine"
+    },
+    {
+      "label": "Dimensions",
+      "value": "12 x 12 x 68 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "1,1 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans"
+    }
+  ],
+  "longDesc": [
+    "Le porte-verres AquaSource est pensé pour accompagner au quotidien l'usage d'une fontaine à eau, que ce soit dans un bureau, une salle d'attente ou un point de restauration rapide. Sa structure en acier inoxydable résiste aux manipulations fréquentes et garde une allure soignée même après un usage intensif.",
+    "Avec une capacité de 95 gobelets, il permet de limiter les allers-retours de réapprovisionnement tout en gardant les gobelets propres et facilement accessibles, à l'abri de la poussière et des projections d'eau. Le nettoyage se fait simplement avec un chiffon humide, sans produit agressif, pour préserver la finition inox.",
+    "Compact et discret, il se fixe au mur ou directement sur le flanc de la plupart des fontaines à eau du catalogue, sans outillage complexe. Un accessoire simple qui améliore concrètement le confort d'utilisation autour du point d'eau, aussi bien pour les particuliers que pour les professionnels de l'accueil."
+  ]
+}

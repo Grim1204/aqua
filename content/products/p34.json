@@ -1,0 +1,44 @@
+{
+  "id": "p34",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/64125-home_default/canaletas-bouteille-recyclable-127-l-pour-fontaine-a-eau.jpg",
+  "brand": "Canaletas",
+  "name": "Bouteille Recyclable 12,7 L",
+  "price": 75.6,
+  "rating": 4.5,
+  "reviews": 118,
+  "specLine": "Polycarbonate · 12,7 L · format compact réutilisable",
+  "shortDesc": "Bouteille rechargeable en polycarbonate de 12,7 litres, compatible avec les fontaines à bonbonne. Un format compact idéal pour un usage occasionnel ou un espace de stockage limité.",
+  "specs": [
+    {
+      "label": "Matériau",
+      "value": "Polycarbonate alimentaire"
+    },
+    {
+      "label": "Capacité",
+      "value": "12,7 L"
+    },
+    {
+      "label": "Compatibilité",
+      "value": "Fontaines à bonbonne standard"
+    },
+    {
+      "label": "Diamètre du col",
+      "value": "55 mm"
+    },
+    {
+      "label": "Poids à vide",
+      "value": "1,2 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans"
+    }
+  ],
+  "longDesc": [
+    "La bouteille recyclable 12,7 L de Canaletas offre une alternative plus légère et plus compacte à la bonbonne classique, particulièrement adaptée aux petits foyers, aux bureaux à faible consommation ou aux espaces où le stockage est limité. Elle se manipule et se change plus facilement qu'un format plus volumineux.",
+    "Fabriquée en polycarbonate résistant, elle est conçue pour de nombreux cycles de remplissage et de lavage sans perdre en solidité ni en transparence, ce qui permet de vérifier facilement le niveau d'eau restant. Un rinçage régulier à l'eau claire suffit à l'entretenir.",
+    "Compatible avec les fontaines à bonbonne du catalogue AquaSource, elle s'installe sans adaptateur particulier. C'est le choix pertinent pour une consommation occasionnelle ou complémentaire, en attendant ou en alternance avec une bonbonne de plus grande capacité."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "p38",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/58384-home_default/canaletas-fontaine-a-eau-reseau-gf-86t.jpg",
+  "brand": "Canaletas",
+  "name": "Groupe Froid GF-86T",
+  "price": 730.8,
+  "rating": 4.7,
+  "reviews": 16,
+  "specLine": "Capacité 50 L · installation à distance · pour usage intensif",
+  "shortDesc": "Groupe froid Canaletas de 50 litres à installation déportée, conçu pour refroidir efficacement de grands volumes d'eau dans les établissements à forte affluence.",
+  "specs": [
+    {
+      "label": "Capacité",
+      "value": "50 L"
+    },
+    {
+      "label": "Type d'installation",
+      "value": "À distance (déportée)"
+    },
+    {
+      "label": "Fluide frigorigène",
+      "value": "Conforme réglementation en vigueur"
+    },
+    {
+      "label": "Dimensions",
+      "value": "60 x 55 x 85 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "45 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans"
+    }
+  ],
+  "longDesc": [
+    "Le groupe froid GF-86T est un équipement professionnel destiné aux établissements générant une forte demande en eau fraîche : restaurants de taille importante, cafétérias, cantines scolaires ou collectivités accueillant un public nombreux. Il se raccorde à distance à la colonne de distribution, libérant ainsi de l'espace au poste de service.",
+    "Avec sa capacité de 50 litres, il assure un débit d'eau froide constant même en période de forte sollicitation, évitant les baisses de température ressenties lors des pics de service. Son installation déportée permet de le positionner en réserve ou en local technique, à proximité du point d'eau.",
+    "Il est compatible avec les colonnes de distribution VIRTUS et les bases associées du catalogue, ce qui en fait une solution cohérente pour les professionnels souhaitant équiper une station de distribution complète et performante."
+  ]
+}

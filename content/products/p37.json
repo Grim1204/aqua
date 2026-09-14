@@ -1,0 +1,44 @@
+{
+  "id": "p37",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/225506-home_default/product.jpg",
+  "brand": "VIRTUS",
+  "name": "Base Fermée pour Colonne VIRTUS Q3TBGB",
+  "price": 512.4,
+  "rating": 4.6,
+  "reviews": 19,
+  "specLine": "352 x 552 x 1007 mm · structure fermée · pour colonne Q3TBGB",
+  "shortDesc": "Base fermée dédiée à la colonne de distribution VIRTUS Q3TBGB, dimensionnée pour les installations à plus fort débit en restauration et collectivité.",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "352 x 552 x 1007 mm"
+    },
+    {
+      "label": "Structure",
+      "value": "Fermée, panneaux latéraux inclus"
+    },
+    {
+      "label": "Matériau",
+      "value": "Acier laqué"
+    },
+    {
+      "label": "Compatibilité",
+      "value": "Colonne VIRTUS Q3TBGB"
+    },
+    {
+      "label": "Poids",
+      "value": "30 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an"
+    }
+  ],
+  "longDesc": [
+    "La base fermée Q3TBGB accueille la colonne de distribution VIRTUS Q3TBGB, une gamme pensée pour les établissements à fort passage : restaurants, cafétérias d'entreprise ou établissements scolaires. Sa structure fermée protège les branchements et donne à l'ensemble une finition professionnelle.",
+    "Bien que ses dimensions extérieures, 352 x 552 x 1007 mm, soient proches de celles de la base Q1TBGB, elle est spécifiquement conçue pour recevoir la colonne Q3TBGB, dotée d'une capacité de distribution supérieure. Les deux bases ne sont pas interchangeables entre elles.",
+    "Ce socle s'adresse aux professionnels qui souhaitent installer une station de distribution d'eau robuste, capable d'accompagner un usage soutenu tout en conservant une intégration soignée dans l'espace de service."
+  ]
+}

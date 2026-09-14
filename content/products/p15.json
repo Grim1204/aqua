@@ -1,0 +1,45 @@
+{
+  "id": "p15",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58386-home_default/canaletas-fontaine-a-eau-reseau-m-99idop.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p31",
+  "name": "Fontaine à Eau Réseau M-99IDOP",
+  "price": 833.4,
+  "rating": 4.6,
+  "reviews": 22,
+  "specLine": "22 L · double capteur de présence · sans contact",
+  "shortDesc": "Fontaine à eau sur réseau à détection sans contact, conçue pour les collectivités et la restauration. Le double capteur de présence garantit une distribution hygiénique en libre-service intensif.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "96 x 38 x 41 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "24 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "22 L/h"
+    },
+    {
+      "label": "Déclenchement",
+      "value": "Double capteur de présence sans contact"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Dans un restaurant d'entreprise, une salle d'attente médicale ou un hall d'accueil très fréquenté, la fontaine à eau réseau M-99IDOP de Canaletas apporte une réponse fiable aux besoins d'hydratation d'un grand nombre d'usagers. Son double capteur de présence permet un service totalement sans contact, un atout apprécié dans les environnements où l'hygiène est une priorité constante.",
+    "Raccordée directement à l'arrivée d'eau du bâtiment, elle s'affranchit du changement de bonbonnes et de la logistique associée. L'installation se fait par un professionnel qui relie l'appareil au réseau et, selon la configuration retenue, à un système de filtration en amont pour garantir la qualité de l'eau distribuée au quotidien.",
+    "Le groupe de production frigorifique intégré assure un débit de 22 litres par heure, suffisant pour couvrir les pics de fréquentation sans temps d'attente prolongé. L'entretien régulier des circuits et du capteur de détection permet de préserver ses performances sur la durée, dans le respect des exigences d'hygiène propres aux établissements recevant du public."
+  ]
+}

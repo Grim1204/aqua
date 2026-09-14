@@ -1,0 +1,45 @@
+{
+  "id": "p24",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58397-home_default/canaletas-fontaine-a-eau-sur-pied-m-6apulv.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau sur Pied M-6APULV",
+  "price": 957.6,
+  "rating": 4.6,
+  "reviews": 20,
+  "specLine": "Sur pied · 35 L · col de cygne · bouton-poussoir",
+  "shortDesc": "Fontaine à eau sur pied avec bec col de cygne et déclenchement par bouton, pour remplir facilement gourdes et carafes en environnement professionnel exigeant.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "102 x 35 x 38 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "27 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "35 L/h"
+    },
+    {
+      "label": "Bec de distribution",
+      "value": "Col de cygne"
+    },
+    {
+      "label": "Déclenchement",
+      "value": "Bouton-poussoir"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-6APULV combine la robustesse de la gamme sur pied Canaletas avec un bec col de cygne surélevé, particulièrement adapté au remplissage de gourdes, carafes ou bouteilles réutilisables dans les espaces de restauration collective ou les salles de sport.",
+    "Son déclenchement par bouton-poussoir reste simple et intuitif, tandis que sa base sur pied autonome permet une installation flexible, sans dépendre d'un mur. Le raccordement se fait directement sur le réseau d'eau, pour une mise en service rapide.",
+    "Avec 35 litres d'eau fraîche produits par heure, elle absorbe sans difficulté les pics d'affluence typiques des pauses ou des changements de service. L'entretien régulier du bec col de cygne et du mécanisme de déclenchement garantit une distribution fiable au quotidien."
+  ]
+}

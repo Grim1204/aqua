@@ -1,0 +1,44 @@
+{
+  "id": "p36",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/225504-home_default/product.jpg",
+  "brand": "VIRTUS",
+  "name": "Base Fermée pour Colonne VIRTUS Q1TBGB",
+  "price": 453.6,
+  "rating": 4.6,
+  "reviews": 22,
+  "specLine": "352 x 552 x 1007 mm · structure fermée · pour colonne Q1TBGB",
+  "shortDesc": "Base fermée dédiée à la colonne de distribution VIRTUS Q1TBGB, conçue pour dissimuler les raccordements et sécuriser l'installation en environnement professionnel.",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "352 x 552 x 1007 mm"
+    },
+    {
+      "label": "Structure",
+      "value": "Fermée, panneaux latéraux inclus"
+    },
+    {
+      "label": "Matériau",
+      "value": "Acier laqué"
+    },
+    {
+      "label": "Compatibilité",
+      "value": "Colonne VIRTUS Q1TBGB"
+    },
+    {
+      "label": "Poids",
+      "value": "28 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an"
+    }
+  ],
+  "longDesc": [
+    "La base fermée Q1TBGB est conçue pour accueillir la colonne de distribution VIRTUS du même nom dans les établissements professionnels : restaurants, cafétérias, cantines ou collectivités. Sa structure fermée dissimule les raccordements d'eau et d'électricité, pour une installation propre et sécurisée.",
+    "Avec ses dimensions de 352 x 552 x 1007 mm, elle offre un socle stable adapté à un usage intensif tout en s'intégrant discrètement dans une cuisine professionnelle ou un espace self-service. Les panneaux latéraux facilitent l'accès pour la maintenance sans compromettre l'esthétique de l'ensemble.",
+    "Cette base est spécifiquement dimensionnée pour la gamme Q1TBGB : elle n'est pas interchangeable avec la base Q3TBGB, destinée à une colonne de taille différente. Elle s'adresse aux professionnels équipant une station de distribution d'eau compacte et fiable au quotidien."
+  ]
+}

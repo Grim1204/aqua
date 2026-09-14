@@ -1,0 +1,45 @@
+{
+  "id": "p12",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58387-home_default/canaletas-fontaine-a-eau-reseau-m-99idpu.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p31",
+  "name": "Fontaine à Eau Réseau M-99IDPU",
+  "price": 754.2,
+  "rating": 4.9,
+  "reviews": 72,
+  "specLine": "Réseau direct · 22 L · 4 boutons · eau chaude",
+  "shortDesc": "Fontaine réseau haut de gamme à 4 boutons, avec distribution d'eau chaude et froide. Grande capacité de 22 L pour les établissements à forte fréquentation.",
+  "specs": [
+    {
+      "label": "Raccordement",
+      "value": "Réseau d'eau froide direct"
+    },
+    {
+      "label": "Capacité réservoir",
+      "value": "22 L"
+    },
+    {
+      "label": "Commandes",
+      "value": "4 boutons (froide, tempérée, chaude, pression)"
+    },
+    {
+      "label": "Distribution eau chaude",
+      "value": "Oui, thermoplongeur intégré"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Oui, groupe compresseur"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-99IDPU est le modèle le plus complet de la gamme réseau : ses 4 boutons de commande offrent un choix de températures qui répond à la fois aux besoins d'un service en salle et à ceux d'un coin détente en entreprise, du café chaud à l'eau bien fraîche.",
+    "Sa capacité de 22 L, la plus généreuse de la sélection, la destine aux établissements à forte fréquentation : restaurants animés, cafétérias d'entreprise, salles d'attente très fréquentées. La distribution d'eau chaude intégrée permet de préparer boissons chaudes ou infusions sans bouilloire séparée.",
+    "Le raccordement direct au réseau et à l'électricité suit le même principe que les autres modèles ID, pour une installation sans complexité malgré des fonctionnalités plus riches. Un entretien régulier du filtre et un contrôle du circuit chaud garantissent des performances stables sur la durée."
+  ]
+}

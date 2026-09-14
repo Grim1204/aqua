@@ -1,0 +1,46 @@
+{
+  "id": "p27",
+  "category": "cartouche",
+  "icon": "p-carbon",
+  "image": "https://www.prodirest.com/64127-home_default/canaletas-filtre-a-sediments-pour-fontaine-a-eau.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p33",
+  "subscription": true,
+  "name": "Filtre à Sédiments pour Fontaine à Eau",
+  "price": 49.2,
+  "rating": 4.5,
+  "reviews": 187,
+  "specLine": "Pré-filtration 5 microns · protège les étages suivants · pose rapide",
+  "shortDesc": "Cartouche de pré-filtration qui retient sable, rouille et particules en suspension avant qu'elles n'atteignent les filtres plus fins de votre fontaine.",
+  "specs": [
+    {
+      "label": "Finesse de filtration",
+      "value": "5 microns"
+    },
+    {
+      "label": "Matière filtrante",
+      "value": "Polypropylène fritté"
+    },
+    {
+      "label": "Diamètre / longueur",
+      "value": "6,3 x 25 cm (standard 10 pouces)"
+    },
+    {
+      "label": "Débit compatible",
+      "value": "Jusqu'à 3 L/min"
+    },
+    {
+      "label": "Durée de vie recommandée",
+      "value": "6 mois"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an contre les défauts de fabrication"
+    }
+  ],
+  "longDesc": [
+    "Ce filtre à sédiments se place en première position sur le circuit de filtration, avant les cartouches à charbon actif ou UV. Son rôle est purement mécanique : il piège le sable, la rouille et les fines particules qui peuvent circuler dans une arrivée d'eau, protégeant ainsi les filtres plus techniques installés en aval.",
+    "Il s'installe en quelques minutes sur les fontaines Canaletas équipées d'un porte-filtre standard, sans outillage particulier. Un changement tous les six mois est recommandé pour conserver un débit constant, un rythme plus court si l'eau de votre secteur est particulièrement chargée en particules.",
+    "Pour ne plus avoir à y penser, ce filtre est disponible en abonnement avec 15 % de réduction et une livraison automatique tous les 3 ou 6 mois : un bon réflexe pour les établissements horeca qui veulent garantir une qualité d'eau constante sans gérer les réassorts manuellement."
+  ]
+}

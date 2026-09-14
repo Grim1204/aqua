@@ -1,0 +1,45 @@
+{
+  "id": "p19",
+  "category": "reseau",
+  "icon": "p-pro",
+  "image": "https://www.prodirest.com/58406-home_default/diamond-fontaine-refrigeree-inox-30-litres-heure.jpg",
+  "brand": "Diamond",
+  "bundleWith": "p31",
+  "name": "Fontaine Réfrigérée Diamond Inox — 30 L/h",
+  "price": 911.63,
+  "rating": 4.8,
+  "reviews": 33,
+  "specLine": "Habillage inox · débit 30 L/h · usage intensif",
+  "shortDesc": "Fontaine réfrigérée à habillage inox, conçue pour la restauration collective et les cuisines professionnelles. Son groupe froid délivre 30 litres d'eau fraîche par heure en continu.",
+  "specs": [
+    {
+      "label": "Habillage",
+      "value": "Inox brossé"
+    },
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "85 x 40 x 45 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "28 kg"
+    },
+    {
+      "label": "Débit de production",
+      "value": "30 L/h"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Dans les cuisines professionnelles et les points de restauration collective, la robustesse de l'équipement compte autant que ses performances. La fontaine réfrigérée Diamond en habillage inox a été conçue pour résister aux cadences soutenues et aux exigences d'hygiène de ce type d'environnement.",
+    "Son raccordement direct au réseau d'eau supprime la manutention de bonbonnes, un vrai gain de temps en cuisine ou en salle. L'installation, réalisée par un professionnel, prévoit généralement un système de filtration en amont pour préserver la qualité de l'eau distribuée aux équipes et à la clientèle.",
+    "Le groupe froid délivre un débit de 30 litres par heure, calibré pour accompagner les services de pointe sans rupture de fraîcheur. L'inox facilite le nettoyage quotidien et limite les traces, un critère apprécié dans les cuisines soumises à des contrôles d'hygiène réguliers."
+  ]
+}

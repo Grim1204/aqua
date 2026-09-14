@@ -1,0 +1,45 @@
+{
+  "id": "p22",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58396-home_default/canaletas-fontaine-a-eau-sur-pied-m-6apu.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau sur Pied M-6APU",
+  "price": 934.2,
+  "rating": 4.4,
+  "reviews": 12,
+  "specLine": "Sur pied · 35 L · déclenchement bouton-poussoir",
+  "shortDesc": "Fontaine à eau sur pied à déclenchement par bouton-poussoir, simple et robuste pour un usage professionnel quotidien. Une capacité de 35 litres par heure adaptée aux flux soutenus.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "100 x 35 x 38 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "26 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "35 L/h"
+    },
+    {
+      "label": "Déclenchement",
+      "value": "Bouton-poussoir"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Pensée pour les couloirs, halls et espaces communs à fort passage, la fontaine sur pied M-6APU mise sur la simplicité : un déclenchement par bouton-poussoir, facile à comprendre pour tous les usagers, du personnel aux visiteurs occasionnels.",
+    "Autonome sur son pied, elle se raccorde directement au réseau d'eau et ne nécessite pas de bonbonne à remplacer. Sa mise en place est rapide, ce qui en fait une option pratique pour équiper plusieurs points d'eau dans un même établissement, sans contrainte de mur porteur.",
+    "Son débit de 35 litres par heure lui permet d'accompagner des flux d'usagers soutenus sans temps d'attente notable. Le bouton-poussoir, mécanique et sans électronique complexe, limite les pannes et facilite l'entretien courant de l'appareil."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "p8",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58372-home_default/canaletas-fontaine-a-eau-m-77id.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Réseau M-77ID",
+  "price": 594,
+  "badge": "Best-seller",
+  "rating": 4.6,
+  "reviews": 58,
+  "specLine": "Réseau direct · 18 L · 2 robinets · réfrigérée",
+  "shortDesc": "Fontaine à eau réfrigérée raccordée directement au réseau, avec réservoir de 18 L et deux robinets pour servir plusieurs personnes rapidement. Idéale en restauration et bureaux.",
+  "specs": [
+    {
+      "label": "Raccordement",
+      "value": "Réseau d'eau froide direct"
+    },
+    {
+      "label": "Capacité réservoir",
+      "value": "18 L"
+    },
+    {
+      "label": "Nombre de robinets",
+      "value": "2"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Oui, groupe compresseur"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240V"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-77ID est une fontaine réseau pensée pour les lieux à passage soutenu : restaurants, cafétérias, salles de pause en entreprise. Son raccordement direct au réseau supprime la contrainte des bonbonnes à changer, pour un débit d'eau fraîche illimité.",
+    "Avec ses deux robinets, elle permet de servir plusieurs personnes en même temps ou d'accélérer le remplissage de carafes et de verres aux heures de forte affluence. Son réservoir de 18 L couplé à un groupe compresseur garantit une eau fraîche en continu, même en usage soutenu.",
+    "L'installation nécessite un raccordement à l'arrivée d'eau froide et une prise électrique à proximité pour alimenter le groupe froid. Côté entretien, un remplacement régulier du filtre et un nettoyage périodique du circuit suffisent à conserver une eau de qualité constante."
+  ]
+}

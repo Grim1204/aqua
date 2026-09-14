@@ -1,0 +1,45 @@
+{
+  "id": "p4",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58381-home_default/canaletas-fontaine-a-eau-murale-m-4asf.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Murale M-4ASF",
+  "price": 414,
+  "rating": 4.5,
+  "reviews": 22,
+  "specLine": "Modèle mural enfant · sans réfrigération · acier laqué",
+  "shortDesc": "Fontaine murale au gabarit enfant, idéale pour écoles, crèches et aires de jeux. Sans groupe froid, elle délivre l'eau du réseau de façon simple, robuste et économique.",
+  "specs": [
+    {
+      "label": "Type d'installation",
+      "value": "Murale, fixation sur mur porteur"
+    },
+    {
+      "label": "Public visé",
+      "value": "Enfants (hauteur réduite)"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Non, eau à température du réseau"
+    },
+    {
+      "label": "Habillage",
+      "value": "Acier laqué, angles arrondis"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Eau froide réseau 3/8\""
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-4ASF a été conçue spécifiquement pour les plus jeunes utilisateurs : sa hauteur réduite et ses lignes arrondies en font une fontaine parfaitement adaptée aux écoles primaires, crèches, centres de loisirs et aires de jeux extérieures couvertes. Les enfants peuvent s'en servir seuls et en toute sécurité, sans arête vive à proximité du visage.",
+    "Son installation murale simplifie la mise en place : un simple raccordement à l'arrivée d'eau froide du réseau suffit, sans besoin d'alimentation électrique puisque l'appareil ne dispose pas de groupe froid. Un plombier peut la fixer en quelques heures sur un mur porteur, une solution rapide à déployer près d'un préau ou d'un couloir.",
+    "L'absence de compresseur réduit à la fois le coût d'achat et les besoins d'entretien : pas de filtre côté réfrigération, pas de consommation électrique, un simple contrôle régulier du robinet suffit. C'est un choix économique et fiable pour les établissements qui veulent un point d'eau potable robuste au quotidien."
+  ]
+}

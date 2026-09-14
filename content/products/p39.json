@@ -1,0 +1,44 @@
+{
+  "id": "p39",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/58383-home_default/canaletas-fontaine-a-eau-reseau-gf-6t.jpg",
+  "brand": "Canaletas",
+  "name": "Groupe Froid GF-6T",
+  "price": 911,
+  "rating": 4.6,
+  "reviews": 14,
+  "specLine": "Capacité 35 L · installation à distance · pour établissements moyens",
+  "shortDesc": "Groupe froid Canaletas de 35 litres à installation déportée, dimensionné pour les restaurants et collectivités de taille moyenne recherchant un débit d'eau froide régulier.",
+  "specs": [
+    {
+      "label": "Capacité",
+      "value": "35 L"
+    },
+    {
+      "label": "Type d'installation",
+      "value": "À distance (déportée)"
+    },
+    {
+      "label": "Fluide frigorigène",
+      "value": "Conforme réglementation en vigueur"
+    },
+    {
+      "label": "Dimensions",
+      "value": "50 x 48 x 78 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "36 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans"
+    }
+  ],
+  "longDesc": [
+    "Le groupe froid GF-6T s'adresse aux établissements de taille moyenne, restaurants, brasseries ou petites collectivités, qui recherchent une solution de refroidissement fiable sans les besoins d'un très gros volume. Comme le GF-86T, il s'installe à distance du point de service pour un encombrement réduit au comptoir.",
+    "Sa capacité de 35 litres permet de couvrir les besoins d'un service standard, avec un débit d'eau froide stable sur des durées de service classiques. C'est une alternative plus compacte et plus économique que le GF-86T pour les structures dont l'affluence est modérée.",
+    "Il se raccorde aux colonnes de distribution VIRTUS et aux bases du catalogue AquaSource, permettant de composer une installation professionnelle adaptée précisément à la taille de l'établissement, sans surdimensionner l'équipement."
+  ]
+}

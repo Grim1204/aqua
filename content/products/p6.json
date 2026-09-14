@@ -1,0 +1,45 @@
+{
+  "id": "p6",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58389-home_default/canaletas-fontaine-a-eau-standard-m-2jro-86.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Extérieure M-2JRO 86",
+  "price": 523.8,
+  "rating": 4.7,
+  "reviews": 34,
+  "specLine": "Extérieure robuste · acier 2 mm · sans réfrigération",
+  "shortDesc": "Fontaine extérieure taillée pour résister aux usages intensifs : structure en acier de 2 mm d'épaisseur, sans groupe froid, pour une eau fraîche du réseau toute l'année.",
+  "specs": [
+    {
+      "label": "Type d'installation",
+      "value": "Sur pied, extérieur"
+    },
+    {
+      "label": "Épaisseur de l'acier",
+      "value": "2 mm"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Non, eau à température du réseau"
+    },
+    {
+      "label": "Traitement",
+      "value": "Anticorrosion, adapté à l'extérieur"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Eau froide réseau"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-2JRO 86 vise les usages extérieurs les plus exigeants : parcs publics, campings, aires de sport ou espaces municipaux fortement fréquentés. Sa structure en acier de 2 mm d'épaisseur lui confère une robustesse nettement supérieure aux modèles d'entrée de gamme, capable d'encaisser les chocs et le passage répété.",
+    "Le raccordement se fait directement sur le réseau d'eau froide, sans électricité puisqu'il n'y a pas de réfrigération embarquée : l'installation reste simple, même en extérieur, et l'appareil peut être positionné à peu près partout où une arrivée d'eau est disponible.",
+    "Le traitement de surface anticorrosion et l'épaisseur de l'acier en font un investissement durable pour les collectivités : peu d'entretien, une bonne résistance aux intempéries, et une vasque facile à rincer pour garder un point d'eau propre en continu."
+  ]
+}

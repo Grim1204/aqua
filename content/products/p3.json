@@ -1,0 +1,45 @@
+{
+  "id": "p3",
+  "category": "bonbonne",
+  "icon": "p-bonbonne",
+  "image": "https://www.prodirest.com/58365-home_default/canaletas-fontaine-a-eau-avec-bombonne-m-72.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau avec Bonbonne M-72",
+  "price": 662.4,
+  "rating": 4.7,
+  "reviews": 41,
+  "specLine": "Bonbonne 18 L · eau chaude et froide · idéale thé/café instantané",
+  "shortDesc": "Fontaine à bonbonne avec distribution d'eau chaude en plus du froid, pratique pour préparer un thé ou une boisson instantanée sans bouilloire à côté.",
+  "specs": [
+    {
+      "label": "Alimentation",
+      "value": "Bonbonne 18 L (non incluse)"
+    },
+    {
+      "label": "Robinets",
+      "value": "3 (chaud, froid et température ambiante)"
+    },
+    {
+      "label": "Puissance chauffe",
+      "value": "500 W"
+    },
+    {
+      "label": "Dimensions",
+      "value": "31 x 33 x 98 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "10,2 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-72 reprend le gabarit au sol de la M-77 mais ajoute un robinet d'eau chaude, ce qui en fait une solution deux-en-un pour les espaces où l'on veut à la fois de l'eau fraîche et de quoi préparer une boisson chaude à la volée. C'est un choix apprécié dans les salles de pause d'entreprise ou les accueils qui proposent thé et café instantané.",
+    "Comme les autres modèles à bonbonne de la gamme, elle s'installe sans raccordement au réseau : il suffit de poser une bonbonne de 18 L retournée sur le dessus. Le circuit de chauffe est isolé du circuit froid pour un fonctionnement fiable, et le bac récepteur amovible simplifie l'entretien.",
+    "Pensez à vérifier régulièrement le niveau de la bonbonne et à la remplacer par une bonbonne recyclable disponible sur AquaSource. Pour une eau encore plus filtrée, une cartouche à charbon actif peut être ajoutée en amont du circuit."
+  ]
+}

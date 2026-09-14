@@ -1,0 +1,45 @@
+{
+  "id": "p14",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58388-home_default/canaletas-fontaine-a-eau-serie-tanex-t-7alv-2pe.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p31",
+  "name": "Fontaine à Eau Tanex T-7ALV 2PE",
+  "price": 829.8,
+  "rating": 4.9,
+  "reviews": 85,
+  "specLine": "Déclenchement mains libres · inox · 18 L · hygiénique",
+  "shortDesc": "Fontaine à déclenchement sans contact, pour un usage hygiénique en collectivité. Habillage acier inoxydable et raccordement direct au réseau d'eau.",
+  "specs": [
+    {
+      "label": "Type d'installation",
+      "value": "Sur pied, autoportante"
+    },
+    {
+      "label": "Déclenchement",
+      "value": "Sans contact (détecteur mains libres)"
+    },
+    {
+      "label": "Habillage",
+      "value": "Acier inoxydable"
+    },
+    {
+      "label": "Capacité réservoir",
+      "value": "18 L"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Oui, groupe compresseur"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La T-7ALV 2PE se distingue par son déclenchement mains libres : un détecteur active l'écoulement de l'eau sans qu'il soit nécessaire de toucher un bouton ou un robinet. Un vrai atout hygiénique pour les lieux à fort passage comme les cantines, les salles d'attente médicales ou les espaces d'entreprise partagés.",
+    "Elle conserve les qualités de la gamme ALV : habillage en acier inoxydable soigné, réservoir de 18 L et raccordement direct au réseau d'eau froide, sans bonbonne à remplacer. Son groupe compresseur assure une eau fraîche disponible en continu, même en usage intensif.",
+    "Le système sans contact réduit les points de friction et limite la propagation de microbes en usage collectif, tout en restant simple d'entretien : un nettoyage régulier de la vasque et un contrôle du détecteur suffisent à garder l'appareil pleinement opérationnel."
+  ]
+}

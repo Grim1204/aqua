@@ -1,0 +1,46 @@
+{
+  "id": "p30",
+  "category": "cartouche",
+  "icon": "p-uv",
+  "image": "https://www.prodirest.com/64129-home_default/canaletas-lampe-de-rechange-pour-filtre-desinfectant.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p33",
+  "subscription": true,
+  "name": "Lampe UV de Rechange",
+  "price": 70.2,
+  "rating": 4.4,
+  "reviews": 96,
+  "specLine": "Lampe UV 6 W · 6000 h de fonctionnement · rechange d'origine",
+  "shortDesc": "Lampe germicide de rechange pour les fontaines équipées d'un traitement UV, à remplacer chaque année pour garantir une efficacité optimale.",
+  "specs": [
+    {
+      "label": "Puissance",
+      "value": "6 W"
+    },
+    {
+      "label": "Longueur d'onde",
+      "value": "254 nm (UV-C)"
+    },
+    {
+      "label": "Durée de vie annoncée",
+      "value": "6 000 heures"
+    },
+    {
+      "label": "Culot",
+      "value": "Standard, compatible réacteurs UV Canaletas"
+    },
+    {
+      "label": "Alimentation",
+      "value": "12 V (via bloc du réacteur)"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an contre les défauts de fabrication"
+    }
+  ],
+  "longDesc": [
+    "L'efficacité germicide d'une lampe UV diminue progressivement avec le temps, même si elle continue de s'allumer normalement. Cette lampe de rechange restitue la puissance d'émission UV-C d'origine du réacteur et permet de maintenir le niveau de traitement attendu sur toute l'année suivante.",
+    "Le remplacement se fait réacteur hors tension, en retirant simplement l'ancienne lampe de son logement pour la remplacer par la neuve : aucune manipulation du circuit hydraulique n'est nécessaire. Avec une durée de vie annoncée de 6 000 heures, un remplacement annuel est le rythme généralement recommandé, plus fréquent en cas de fonctionnement continu 24h/24.",
+    "Cette lampe est également disponible en abonnement, avec 15 % de réduction et une livraison programmée tous les 3 ou 6 mois : une façon simple pour les professionnels de ne jamais laisser leur fontaine fonctionner avec une lampe UV en fin de vie."
+  ]
+}

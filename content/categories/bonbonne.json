@@ -1,0 +1,38 @@
+{
+  "order": 1,
+  "slug": "fontaines-bonbonne",
+  "title": "Fontaines à bonbonne",
+  "icon": "p-bonbonne",
+  "intro": "Aucun raccordement nécessaire : posez votre fontaine où vous le souhaitez et changez la bonbonne en quelques secondes. Idéales en location ou pour une mise en service immédiate.",
+  "seoIntro": "La fontaine à eau à bonbonne reste la solution la plus simple pour profiter d'une eau fraîche ou chaude à la maison comme au bureau, sans aucun travaux. Elle se branche sur une simple prise électrique, s'installe en quelques minutes et fonctionne dès la mise en place de la première bonbonne. C'est le format le plus choisi par les locataires, les petites structures et toute personne qui souhaite une solution immédiate, mobile et sans engagement de raccordement.",
+  "guide": [
+    {
+      "h": "Comment choisir sa fontaine à bonbonne ?",
+      "p": [
+        "Le premier critère est le nombre de températures dont vous avez besoin : deux (froid/ambiant) suffisent pour un usage familial classique, tandis qu'une troisième position chaude est appréciée pour préparer rapidement thé, café ou biberons. Vérifiez ensuite la compatibilité avec les formats de bonbonne les plus courants (5, 6,5 et 8 litres) pour ne pas dépendre d'un seul fournisseur.",
+        "L'habillage joue aussi un rôle : l'inox brossé résiste mieux aux traces et à l'usage intensif qu'un habillage plastique, particulièrement dans un environnement professionnel très fréquenté."
+      ]
+    },
+    {
+      "h": "Où placer sa fontaine et à quelle fréquence changer la bonbonne ?",
+      "p": [
+        "Prévoyez un espace stable, à proximité d'une prise électrique, capable de supporter le poids d'une bonbonne pleine (environ 8 à 12 kg selon le format). Pour un foyer de 2 à 4 personnes, une bonbonne de 6,5 litres dure généralement entre une et deux semaines.",
+        "Pensez également au stockage d'une bonbonne de réserve, afin de ne jamais être pris au dépourvu entre deux livraisons."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Une fontaine à bonbonne consomme-t-elle beaucoup d'électricité ?",
+      "a": "Non, la consommation reste modérée (environ 1 à 1,5 kWh par jour en usage normal), comparable à celle d'un petit réfrigérateur."
+    },
+    {
+      "q": "Peut-on utiliser n'importe quelle marque de bonbonne ?",
+      "a": "Le bouchon universel de nos fontaines accepte la grande majorité des bonbonnes 5, 6,5 et 8 litres vendues en grande distribution ou chez les fournisseurs spécialisés."
+    },
+    {
+      "q": "Faut-il un contrat d'abonnement pour les bonbonnes elles-mêmes ?",
+      "a": "Non, aucun engagement n'est nécessaire : vous achetez vos bonbonnes où vous le souhaitez, au rythme qui vous convient."
+    }
+  ]
+}

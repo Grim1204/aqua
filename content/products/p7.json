@@ -1,0 +1,45 @@
+{
+  "id": "p7",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58382-home_default/canaletas-fontaine-a-eau-pour-enfant-m-2jro-56.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Extérieure Enfant M-2JRO 56",
+  "price": 523.8,
+  "rating": 4.8,
+  "reviews": 41,
+  "specLine": "Extérieure enfant · acier 2 mm · hauteur réduite",
+  "shortDesc": "Déclinaison enfant de la M-2JRO, avec une hauteur abaissée pour les cours d'école et aires de jeux. Structure acier 2 mm résistante, sans réfrigération.",
+  "specs": [
+    {
+      "label": "Type d'installation",
+      "value": "Sur pied, extérieur"
+    },
+    {
+      "label": "Public visé",
+      "value": "Enfants (hauteur réduite)"
+    },
+    {
+      "label": "Épaisseur de l'acier",
+      "value": "2 mm"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Non, eau à température du réseau"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Eau froide réseau"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-2JRO 56 reprend la robustesse de la gamme JRO en l'adaptant aux plus jeunes : sa hauteur abaissée permet aux enfants d'atteindre le jet d'eau sans effort, un choix naturel pour les cours d'école, les crèches en extérieur et les aires de jeux municipales.",
+    "Construite en acier de 2 mm d'épaisseur, elle supporte sans broncher l'usage intensif propre aux espaces scolaires et publics, y compris les chocs et bousculades habituels en cour de récréation. Le raccordement au réseau d'eau froide est direct, sans électricité à prévoir.",
+    "Simple d'entretien, elle demande surtout un nettoyage régulier de la vasque et du robinet pour rester hygiénique face à une forte fréquentation enfantine. C'est une valeur sûre pour les collectivités qui cherchent un point d'eau extérieur durable et adapté aux enfants."
+  ]
+}

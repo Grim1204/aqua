@@ -1,0 +1,45 @@
+{
+  "id": "p23",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58399-home_default/canaletas-fontaine-a-eau-sur-pied-m-6arolv.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau sur Pied M-6AROLV",
+  "price": 954,
+  "rating": 4.7,
+  "reviews": 25,
+  "specLine": "Sur pied · 30 L/h · habillage arrondi au design soigné",
+  "shortDesc": "Fontaine à eau sur pied à l'habillage arrondi et soigné, pour les espaces d'accueil qui misent sur l'esthétique autant que sur la fonctionnalité. Débit de 30 litres par heure.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "98 x 34 x 34 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "24 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "30 L/h"
+    },
+    {
+      "label": "Habillage",
+      "value": "Design rond"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Certains espaces professionnels, comme les halls d'accueil ou les salles d'attente haut de gamme, demandent un équipement qui s'intègre avec élégance au décor. La M-6AROLV répond à cette attente avec un habillage au design rond, aux lignes plus douces que les fontaines classiques.",
+    "Sur pied et autonome, elle se raccorde à l'arrivée d'eau du bâtiment sans nécessiter d'aménagement mural, ce qui laisse une grande liberté d'implantation. Son gabarit compact facilite son intégration dans des espaces où l'esthétique compte autant que la fonction.",
+    "Avec une capacité de 30 litres d'eau fraîche par heure, elle est dimensionnée pour un usage professionnel régulier sans être surdimensionnée. Un entretien simple de l'habillage et du circuit d'eau suffit à conserver son aspect soigné et ses performances dans la durée."
+  ]
+}

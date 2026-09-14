@@ -1,0 +1,48 @@
+{
+  "id": "p31",
+  "category": "cartouche",
+  "icon": "p-uv",
+  "image": "https://www.prodirest.com/64128-home_default/canaletas-filtre-uv-pour-fontaine-a-eau.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p33",
+  "subscription": true,
+  "name": "Filtre UV pour Fontaine à Eau",
+  "price": 107.4,
+  "oldPrice": 129,
+  "badge": "Promo",
+  "rating": 4.7,
+  "reviews": 128,
+  "specLine": "Réacteur UV 6 W · débit 4 L/min · traitement germicide complet",
+  "shortDesc": "Réacteur UV complet qui applique un traitement germicide à l'eau avant distribution, un niveau de sécurité supplémentaire apprécié en usage professionnel.",
+  "specs": [
+    {
+      "label": "Puissance lampe",
+      "value": "6 W"
+    },
+    {
+      "label": "Débit traité",
+      "value": "4 L/min"
+    },
+    {
+      "label": "Longueur d'onde",
+      "value": "254 nm (UV-C)"
+    },
+    {
+      "label": "Corps du réacteur",
+      "value": "Acier inoxydable"
+    },
+    {
+      "label": "Alimentation",
+      "value": "230 V / 12 V via transformateur fourni"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Ce filtre UV complet s'installe en aval de la filtration à charbon actif pour appliquer un traitement germicide par ultraviolets juste avant la distribution de l'eau. C'est une étape supplémentaire particulièrement recherchée dans les cuisines professionnelles et les établissements recevant du public, où la constance de la qualité d'eau est un enjeu quotidien.",
+    "Le réacteur en acier inoxydable se raccorde sur le circuit existant et fonctionne en continu tant que la fontaine est sous tension, sans intervention nécessaire au jour le jour. Un débit traité de 4 L/min couvre confortablement les besoins d'une fontaine à usage collectif.",
+    "Seul point d'entretien : la lampe UV interne s'use avec le temps et se remplace environ une fois par an (référence disponible séparément dans notre rayon cartouches). L'ensemble du filtre bénéficie par ailleurs de notre offre d'abonnement, avec 15 % de réduction sur les consommables associés et une livraison tous les 3 ou 6 mois."
+  ]
+}

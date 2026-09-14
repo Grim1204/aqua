@@ -1,0 +1,45 @@
+{
+  "id": "p9",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58370-home_default/canaletas-fontaine-a-eau-m-33id.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Réseau M-33ID",
+  "price": 630,
+  "rating": 4.5,
+  "reviews": 47,
+  "specLine": "Format compact sur table · 16 L · réseau direct",
+  "shortDesc": "Fontaine réfrigérée compacte, pensée pour être posée sur un plan de travail ou un comptoir. Raccordée directement au réseau, elle convient aux petits espaces.",
+  "specs": [
+    {
+      "label": "Format",
+      "value": "Sur table (pose comptoir)"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Réseau d'eau froide direct"
+    },
+    {
+      "label": "Capacité réservoir",
+      "value": "16 L"
+    },
+    {
+      "label": "Réfrigération",
+      "value": "Oui, groupe compresseur"
+    },
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "45 x 30 x 30 cm"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-33ID répond à un besoin précis : proposer de l'eau fraîche réfrigérée sans mobiliser d'espace au sol. Son format compact, conçu pour être posé sur un comptoir, un bar ou un plan de travail, en fait la solution idéale pour les petites cuisines, les bureaux d'accueil ou les commerces à surface réduite.",
+    "Comme les autres modèles ID de la gamme, elle se raccorde directement au réseau d'eau froide, ce qui évite toute manipulation de bonbonne. Une simple prise électrique à proximité suffit pour alimenter le groupe compresseur et profiter d'une eau bien fraîche à tout moment.",
+    "Sa taille réduite ne l'empêche pas d'offrir un débit confortable pour un usage régulier : parfaite pour un petit café, une salle d'attente ou un espace d'accueil où la place manque mais où l'eau fraîche reste indispensable."
+  ]
+}

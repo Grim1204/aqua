@@ -1,0 +1,44 @@
+{
+  "id": "p40",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/225509-home_default/product.jpg",
+  "brand": "VIRTUS",
+  "name": "Colonne de Distribution Manuelle VIRTUS",
+  "price": 974.4,
+  "rating": 4.7,
+  "reviews": 21,
+  "specLine": "3 robinets · pose sur socle Q3TBGB · usage professionnel intensif",
+  "shortDesc": "Colonne de distribution manuelle VIRTUS à 3 robinets, conçue pour se poser sur le socle Q3TBGB et équiper un point d'eau professionnel à haut débit.",
+  "specs": [
+    {
+      "label": "Nombre de robinets",
+      "value": "3"
+    },
+    {
+      "label": "Socle compatible",
+      "value": "Base VIRTUS Q3TBGB"
+    },
+    {
+      "label": "Matériau",
+      "value": "Acier inoxydable"
+    },
+    {
+      "label": "Type de distribution",
+      "value": "Manuelle"
+    },
+    {
+      "label": "Poids",
+      "value": "12 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an"
+    }
+  ],
+  "longDesc": [
+    "La colonne de distribution manuelle VIRTUS constitue l'élément central d'une station d'eau professionnelle. Équipée de 3 robinets, elle permet de servir plusieurs personnes simultanément, un atout précieux dans les restaurants, cafétérias et collectivités où les périodes de service concentrent une forte demande.",
+    "Elle est spécialement conçue pour se poser sur la base fermée VIRTUS Q3TBGB, qui dissimule les raccordements et assure la stabilité de l'ensemble. Associée à un groupe froid déporté du catalogue, elle offre une solution complète de distribution d'eau fraîche.",
+    "Pensée pour un usage manuel simple et robuste, elle s'adresse aux professionnels de la restauration et des collectivités souhaitant un point d'eau fiable, facile à utiliser par le personnel comme par les convives, avec un entretien limité au nettoyage courant de l'acier inoxydable."
+  ]
+}

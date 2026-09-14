@@ -1,0 +1,45 @@
+{
+  "id": "p2",
+  "category": "bonbonne",
+  "icon": "p-bonbonne",
+  "image": "https://www.prodirest.com/58364-home_default/canaletas-fontaine-a-eau-avec-bombonne-m-33.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau avec Bonbonne M-33",
+  "price": 657,
+  "rating": 4.5,
+  "reviews": 22,
+  "specLine": "Format compact sur table · bonbonne 18 L · faible encombrement",
+  "shortDesc": "Version compacte à poser sur comptoir ou desserte, parfaite quand l'espace au sol manque mais que l'on veut garder l'eau fraîche à portée de main.",
+  "specs": [
+    {
+      "label": "Alimentation",
+      "value": "Bonbonne 18 L (non incluse)"
+    },
+    {
+      "label": "Format",
+      "value": "Sur table / comptoir"
+    },
+    {
+      "label": "Dimensions",
+      "value": "31 x 31 x 47 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "6,8 kg"
+    },
+    {
+      "label": "Habillage",
+      "value": "ABS qualité alimentaire"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Contrairement à la M-77 qui se pose au sol, la M-33 a été conçue comme un modèle de comptoir : elle se glisse sur un plan de travail, une desserte ou une banque d'accueil dès que la bonbonne est retournée dessus. C'est le choix logique pour les petites cuisines de bureau, les salles de réunion ou les cabinets où chaque mètre carré compte.",
+    "Malgré son format réduit, elle conserve la robustesse des fontaines Canaletas et se nettoie tout aussi facilement grâce à son bac récepteur amovible. On l'installe généralement à côté d'un point d'eau existant ou sur un meuble bas, sans aucun raccordement.",
+    "Elle convient particulièrement bien aux professionnels qui reçoivent peu de passage mais veulent proposer un geste d'accueil soigné : cabinet libéral, salon de coiffure, petite boutique. Une cartouche de filtration en complément permet d'affiner encore le goût de l'eau distribuée."
+  ]
+}

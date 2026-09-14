@@ -1,0 +1,45 @@
+{
+  "id": "p25",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58394-home_default/canaletas-fontaine-a-eau-sur-pied-m-6ape.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p31",
+  "name": "Fontaine à Eau sur Pied M-6APE",
+  "price": 972,
+  "rating": 4.8,
+  "reviews": 36,
+  "specLine": "Sur pied · 35 L · déclenchement à pédale · mains libres",
+  "shortDesc": "Fontaine à eau sur pied à déclenchement par pédale, pour un usage entièrement mains libres. Une solution hygiénique adaptée aux cuisines professionnelles et environnements exigeants.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "100 x 35 x 40 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "27 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "35 L/h"
+    },
+    {
+      "label": "Déclenchement",
+      "value": "Pédale au sol, usage mains libres"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Dans les cuisines professionnelles ou tout environnement où l'hygiène des mains est une priorité constante, la fontaine sur pied M-6APE apporte une réponse concrète : son déclenchement à pédale permet de prélever de l'eau sans jamais toucher l'appareil.",
+    "Ce fonctionnement mains libres limite les points de contact et s'inscrit naturellement dans une démarche d'hygiène renforcée, appréciée en restauration comme dans les établissements de santé. L'installation reste identique à celle des autres fontaines sur pied, avec un raccordement direct au réseau d'eau.",
+    "Avec un débit de 35 litres par heure, elle est calibrée pour les usages intensifs des cuisines de collectivité. Le mécanisme à pédale, robuste et mécanique, demande un entretien simple et régulier pour continuer à fonctionner de façon fiable sur le long terme."
+  ]
+}

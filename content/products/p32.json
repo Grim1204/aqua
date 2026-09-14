@@ -1,0 +1,46 @@
+{
+  "id": "p32",
+  "category": "cartouche",
+  "icon": "p-carbon",
+  "image": "https://www.prodirest.com/64123-home_default/canaletas-filtre-purifiant-complet-pour-fontaine-a-eau.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p33",
+  "subscription": true,
+  "name": "Filtre Purifiant Complet",
+  "price": 112.8,
+  "rating": 4.6,
+  "reviews": 143,
+  "specLine": "Charbon actif · installation externe réseau · montage mural",
+  "shortDesc": "Filtre complet à installer directement sur l'arrivée d'eau, en amont de la fontaine, pour une filtration externe facile à entretenir sans démonter l'appareil.",
+  "specs": [
+    {
+      "label": "Média filtrant",
+      "value": "Charbon actif en bloc"
+    },
+    {
+      "label": "Installation",
+      "value": "Externe, en ligne sur l'arrivée d'eau"
+    },
+    {
+      "label": "Fixation",
+      "value": "Murale, avec équerre de montage fournie"
+    },
+    {
+      "label": "Raccordement",
+      "value": "Standard 1/4\" (adaptateurs inclus)"
+    },
+    {
+      "label": "Débit compatible",
+      "value": "Jusqu'à 3 L/min"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an contre les défauts de fabrication"
+    }
+  ],
+  "longDesc": [
+    "Plutôt qu'un filtre logé à l'intérieur de la fontaine, ce modèle se fixe à part sur le mur ou sous un point d'eau, directement sur le réseau, en amont de l'appareil. Cette installation externe facilite grandement les remplacements de cartouche dans les cuisines professionnelles où l'accès à l'intérieur de la fontaine est contraint.",
+    "Le montage se fait avec l'équerre fournie et des raccords standard 1/4 pouce, compatibles avec la plupart des tuyauteries flexibles déjà en place. Une fois en service, il traite l'eau avant même qu'elle n'entre dans la fontaine, ce qui protège également les autres composants internes de l'appareil.",
+    "Comme les autres cartouches du catalogue, ce filtre externe est proposé en abonnement avec 15 % de réduction et une livraison tous les 3 ou 6 mois, un service pensé pour les restaurateurs et hôteliers qui ne veulent pas avoir à surveiller eux-mêmes la fréquence de remplacement."
+  ]
+}

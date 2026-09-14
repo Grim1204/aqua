@@ -1,0 +1,38 @@
+{
+  "order": 2,
+  "slug": "fontaines-reseau",
+  "title": "Fontaines sur réseau",
+  "icon": "p-network",
+  "intro": "Raccordées directement à votre arrivée d'eau, ces fontaines filtrent en continu sans jamais nécessiter de changement de bonbonne. Un investissement plus élevé, amorti dès la première année.",
+  "seoIntro": "La fontaine à eau sur réseau supprime totalement la manutention des bonbonnes : raccordée directement à votre arrivée d'eau froide, elle filtre en continu et délivre une eau fraîche à volonté, sans jamais tomber à court. C'est le choix le plus rentable dès que la consommation dépasse deux à trois bonbonnes par mois, et la solution privilégiée dans les bureaux, salles d'attente et espaces à forte fréquentation.",
+  "guide": [
+    {
+      "h": "Bonbonne ou réseau : à partir de quand la fontaine réseau devient-elle rentable ?",
+      "p": [
+        "Une fontaine réseau demande un investissement de départ plus élevé, mais son coût d'usage se limite ensuite au remplacement d'une cartouche tous les 3 à 6 mois. Pour un foyer ou un bureau consommant plus de 2 bonbonnes par mois, l'écart se comble généralement en moins d'un an.",
+        "Au-delà de l'aspect financier, elle évite le port de charges et le stockage de bonbonnes, un vrai gain de confort au quotidien."
+      ]
+    },
+    {
+      "h": "Installation : ce qu'il faut vérifier avant d'acheter",
+      "p": [
+        "Assurez-vous que votre arrivée d'eau froide est accessible à proximité de l'emplacement souhaité (sous évier ou à l'arrière de la fontaine selon le modèle). La pression standard d'un réseau domestique est suffisante ; aucun outillage spécifique n'est requis grâce au kit de raccordement fourni.",
+        "En cas de doute sur la compatibilité de votre installation, notre service client peut vous accompagner avant votre commande."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il faire appel à un plombier pour installer une fontaine réseau ?",
+      "a": "Dans la grande majorité des cas, non : le kit de raccordement fourni permet une installation en moins de 30 minutes sur une arrivée d'eau froide standard."
+    },
+    {
+      "q": "Que se passe-t-il en cas de coupure d'eau ?",
+      "a": "La fontaine cesse simplement de se réapprovisionner ; le réservoir interne continue de distribuer l'eau déjà filtrée jusqu'à épuisement."
+    },
+    {
+      "q": "La cartouche filtre-t-elle aussi le calcaire ?",
+      "a": "Nos cartouches charbon actif réduisent le chlore et le goût ; pour le calcaire, préférez une cartouche anti-tartre, recommandée dans les zones à eau dure."
+    }
+  ]
+}

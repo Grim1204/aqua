@@ -1,0 +1,45 @@
+{
+  "id": "p20",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58385-home_default/canaletas-fontaine-a-eau-reseau-m-992idpu.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p31",
+  "name": "Fontaine à Eau Réseau M-992IDPU",
+  "price": 919.8,
+  "rating": 4.5,
+  "reviews": 16,
+  "specLine": "22 L · 4 boutons · distribution eau chaude",
+  "shortDesc": "Fontaine à eau réseau à 4 boutons, avec distribution d'eau chaude en complément de l'eau fraîche. Une solution polyvalente pour les espaces de restauration et de bureaux.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "97 x 38 x 41 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "25 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "22 L/h"
+    },
+    {
+      "label": "Commandes",
+      "value": "4 boutons de sélection"
+    },
+    {
+      "label": "Distribution eau chaude",
+      "value": "Intégrée"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    }
+  ],
+  "longDesc": [
+    "Dans un office de restauration d'entreprise ou une salle de pause bien fréquentée, disposer à la fois d'eau fraîche et d'eau chaude sur un même point simplifie considérablement le service. La M-992IDPU répond à ce besoin avec ses 4 boutons de commande, qui permettent de sélectionner rapidement le type de distribution souhaité.",
+    "Raccordée au réseau d'eau du bâtiment, elle s'installe sans bonbonne à gérer ni stock à renouveler. Le professionnel en charge de la pose prévoit généralement une filtration en amont, pour une eau de qualité constante quel que soit le mode de distribution choisi.",
+    "Avec 22 litres d'eau fraîche produits par heure et une fonction eau chaude intégrée, elle couvre un large éventail d'usages, du verre d'eau glacée à la préparation d'une boisson chaude. Un entretien régulier du circuit chaud comme du circuit froid est recommandé pour préserver la sécurité et la performance de l'appareil."
+  ]
+}

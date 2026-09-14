@@ -1,0 +1,44 @@
+{
+  "id": "p35",
+  "category": "accessoire",
+  "icon": "p-kit",
+  "image": "https://www.prodirest.com/64219-home_default/canaletas-bonbonne-recyclable-189-litres.jpg",
+  "brand": "Canaletas",
+  "name": "Bonbonne Recyclable 18,9 L",
+  "price": 75.6,
+  "rating": 4.7,
+  "reviews": 176,
+  "specLine": "Polycarbonate · 18,9 L · format standard le plus courant",
+  "shortDesc": "Bonbonne rechargeable en polycarbonate de 18,9 litres, le format de référence pour les fontaines à bonbonne en France. Idéale pour une consommation régulière au bureau ou à domicile.",
+  "specs": [
+    {
+      "label": "Matériau",
+      "value": "Polycarbonate alimentaire"
+    },
+    {
+      "label": "Capacité",
+      "value": "18,9 L"
+    },
+    {
+      "label": "Compatibilité",
+      "value": "Fontaines à bonbonne standard"
+    },
+    {
+      "label": "Diamètre du col",
+      "value": "55 mm"
+    },
+    {
+      "label": "Poids à vide",
+      "value": "1,6 kg"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans"
+    }
+  ],
+  "longDesc": [
+    "La bonbonne recyclable 18,9 L est le format le plus répandu sur le marché français des fontaines à eau, aussi bien chez les particuliers que dans les bureaux et les points de restauration. Sa capacité couvre confortablement les besoins d'une consommation quotidienne régulière sans multiplier les changements.",
+    "Réalisée en polycarbonate robuste, elle supporte de nombreux cycles de remplissage et de manipulation tout en conservant sa transparence, facilitant le suivi du niveau d'eau. Elle s'entretient simplement, à l'eau claire, et se range facilement grâce à sa base stable.",
+    "Compatible avec l'ensemble des fontaines à bonbonne du catalogue AquaSource, elle s'installe en quelques secondes sans matériel supplémentaire. C'est le format à privilégier pour un usage courant, en foyer, bureau ou petite structure professionnelle."
+  ]
+}

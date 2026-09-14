@@ -1,0 +1,45 @@
+{
+  "id": "p21",
+  "category": "reseau",
+  "icon": "p-pro",
+  "image": "https://www.prodirest.com/58404-home_default/diamond-fontaine-refrigeree-inox-30-litres-heure.jpg",
+  "brand": "Diamond",
+  "bundleWith": "p31",
+  "name": "Fontaine Réfrigérée Diamond Inox Plus — 30 L/h",
+  "price": 926.21,
+  "rating": 4.9,
+  "reviews": 41,
+  "specLine": "Inox · débit 30 L/h · capacité renforcée",
+  "shortDesc": "Version Plus de la fontaine réfrigérée Diamond, avec un réservoir tampon renforcé pour mieux absorber les pics de service. Habillage inox et débit de 30 litres d'eau fraîche par heure.",
+  "specs": [
+    {
+      "label": "Habillage",
+      "value": "Inox brossé"
+    },
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "90 x 42 x 47 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "32 kg"
+    },
+    {
+      "label": "Débit de production",
+      "value": "30 L/h"
+    },
+    {
+      "label": "Réservoir tampon",
+      "value": "Capacité renforcée"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La fontaine réfrigérée Diamond Inox Plus reprend les qualités de la version standard tout en visant les établissements aux pics de fréquentation plus marqués, comme les grandes brasseries, cantines ou restaurants d'entreprise, où la demande en eau fraîche peut être très concentrée sur quelques heures.",
+    "Sa différence tient à son réservoir tampon de capacité renforcée, qui permet de mieux absorber les appels d'eau simultanés en heure de pointe sans dégradation notable de la température. L'installation reste identique à celle d'une fontaine réseau classique, avec raccordement direct à l'arrivée d'eau et filtration recommandée en amont.",
+    "Avec son débit de 30 litres par heure et son autonomie renforcée, elle offre une marge de sécurité appréciable pour les équipes en cuisine ou en salle lors des rushs. L'habillage inox facilite l'entretien quotidien et s'intègre naturellement dans un environnement de restauration professionnelle."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "order": 3,
+  "slug": "cartouches-filtres",
+  "title": "Cartouches & filtres",
+  "icon": "p-carbon",
+  "intro": "Le cœur de la filtration. Nos cartouches sont testées en laboratoire indépendant et disponibles en abonnement pour ne jamais être à court.",
+  "seoIntro": "La qualité de l'eau distribuée dépend presque entièrement de la cartouche installée. Charbon actif, anti-tartre, sédiment ou traitement UV : chaque technologie répond à un besoin précis, et le bon choix dépend de votre type de fontaine, de la dureté de votre eau et de votre fréquence d'utilisation. Nos cartouches sont testées en laboratoire indépendant et peuvent être livrées automatiquement en abonnement.",
+  "guide": [
+    {
+      "h": "Quelle cartouche choisir selon votre besoin ?",
+      "p": [
+        "Le charbon actif reste la base de toute filtration : il retient le chlore et les composés responsables du goût et de l'odeur de l'eau du robinet. Dans une région à eau calcaire, associez-le à une cartouche anti-tartre pour protéger le circuit de votre fontaine.",
+        "La cartouche sédiment, utilisée en pré-filtration, retient les particules en suspension et prolonge la durée de vie des filtres suivants ; le traitement UV, enfin, vient renforcer la filtration mécanique par une action anti-bactérienne."
+      ]
+    },
+    {
+      "h": "Bien anticiper le remplacement de vos cartouches",
+      "p": [
+        "La durée de vie d'une cartouche dépend du volume filtré et de la qualité de l'eau à l'entrée : comptez 3 à 6 mois pour un usage familial, 2 à 3 mois pour un usage professionnel intensif.",
+        "L'abonnement cartouches renouvelle automatiquement votre stock à la fréquence de votre choix, avec 15% de réduction et sans risque d'oubli."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir quand changer ma cartouche ?",
+      "a": "Un changement de goût ou une baisse de débit sont les signes les plus fiables, même si la durée théorique n'est pas encore atteinte."
+    },
+    {
+      "q": "Les cartouches sont-elles compatibles avec toutes les fontaines ?",
+      "a": "Nos cartouches universelles couvrent la majorité des fontaines bonbonne et réseau du marché ; la fiche de chaque cartouche précise ses compatibilités."
+    },
+    {
+      "q": "Peut-on résilier l'abonnement cartouches à tout moment ?",
+      "a": "Oui, sans frais ni justification, directement depuis votre espace client."
+    }
+  ]
+}

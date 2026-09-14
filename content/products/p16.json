@@ -1,0 +1,45 @@
+{
+  "id": "p16",
+  "category": "reseau",
+  "icon": "p-pro",
+  "image": "https://www.prodirest.com/225511-home_default/product.jpg",
+  "brand": "VIRTUS",
+  "bundleWith": "p31",
+  "name": "Distributeur d'Eau Froide et Chaude VIRTUS",
+  "price": 861,
+  "rating": 4.5,
+  "reviews": 14,
+  "specLine": "3,5 L · eau froide et chaude · porte-gobelets intégré",
+  "shortDesc": "Distributeur d'eau froide et chaude compact, idéal pour un accueil, une salle de réunion ou un espace de vente restreint. Son porte-gobelets intégré simplifie le service au quotidien.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "147 x 31 x 31 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "18 kg"
+    },
+    {
+      "label": "Capacité du réservoir",
+      "value": "3,5 L"
+    },
+    {
+      "label": "Distribution",
+      "value": "Eau froide et eau chaude"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Toutes les structures professionnelles n'ont pas l'espace ni le besoin d'un équipement de grande capacité. Le distributeur VIRTUS répond à cette réalité avec un format compact de 31 x 31 cm au sol, pensé pour un accueil, une salle de réunion ou un petit point de vente où chaque mètre carré compte.",
+    "Il se raccorde simplement au réseau d'eau et à une prise électrique, sans nécessiter de gros travaux d'installation. Son porte-gobelets intégré évite d'avoir à stocker les gobelets séparément et facilite l'organisation d'un poste de service sobre et fonctionnel.",
+    "Malgré son gabarit réduit, il propose une distribution d'eau froide et d'eau chaude, pratique pour préparer une boisson chaude ou rafraîchir un verre d'eau à tout moment de la journée. Un entretien simple du réservoir et des becs de distribution suffit à conserver un fonctionnement fiable dans la durée."
+  ]
+}

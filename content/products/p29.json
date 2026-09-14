@@ -1,0 +1,47 @@
+{
+  "id": "p29",
+  "category": "cartouche",
+  "icon": "p-carbon",
+  "image": "https://www.prodirest.com/64126-home_default/canaletas-filtre-a-charbon-actif-pour-fontaine-a-eau.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p33",
+  "subscription": true,
+  "name": "Filtre à Charbon Actif Universel",
+  "price": 81,
+  "badge": "Best-seller",
+  "rating": 4.8,
+  "reviews": 356,
+  "specLine": "Filtration 1 µm · charbon actif · compatible toutes fontaines",
+  "shortDesc": "Le filtre le plus polyvalent du catalogue : une finesse de 1 micron et un porte-filtre universel qui s'adapte à la majorité des fontaines Canaletas.",
+  "specs": [
+    {
+      "label": "Finesse de filtration",
+      "value": "1 µm"
+    },
+    {
+      "label": "Média filtrant",
+      "value": "Charbon actif en bloc"
+    },
+    {
+      "label": "Compatibilité",
+      "value": "Porte-filtre universel 10 pouces"
+    },
+    {
+      "label": "Débit compatible",
+      "value": "Jusqu'à 3 L/min"
+    },
+    {
+      "label": "Durée de vie recommandée",
+      "value": "12 mois ou 6 000 L"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an contre les défauts de fabrication"
+    }
+  ],
+  "longDesc": [
+    "Ce filtre universel à charbon actif combine une finesse de filtration de 1 micron avec une capacité de traitement élevée, ce qui en fait la cartouche de référence pour la grande majorité des fontaines à réseau vendues sur AquaSource. Il réduit efficacement le chlore, certaines impuretés dissoutes et les goûts parasites de l'eau du robinet.",
+    "Son format standard 10 pouces le rend compatible avec la plupart des porte-filtres du marché, ce qui simplifie le remplacement même si votre fontaine n'est pas de la même série que le filtre d'origine. Sa durée de vie annoncée d'un an en usage domestique se réduit naturellement en usage professionnel intensif, où un contrôle tous les six mois est conseillé.",
+    "C'est notre cartouche la plus vendue, souscrite en abonnement par de nombreux cafés et restaurants qui bénéficient ainsi de 15 % de réduction et d'une livraison automatique tous les 3 ou 6 mois, sans avoir à surveiller la date de remplacement."
+  ]
+}

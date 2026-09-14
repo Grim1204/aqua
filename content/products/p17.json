@@ -1,0 +1,47 @@
+{
+  "id": "p17",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58379-home_default/canaletas-fontaine-a-eau-murale-m-4a.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Murale M-4A",
+  "price": 880.2,
+  "oldPrice": 979,
+  "badge": "Promo",
+  "rating": 4.7,
+  "reviews": 27,
+  "specLine": "Fixation murale · 30 L · hauteur réglable",
+  "shortDesc": "Fontaine à eau murale au format épuré, avec réglage en hauteur pour s'adapter à tous les usagers. Une solution idéale pour les couloirs et espaces communs des établissements professionnels.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "90 x 35 x 30 cm (réglable)"
+    },
+    {
+      "label": "Poids",
+      "value": "16 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "30 L/h"
+    },
+    {
+      "label": "Fixation",
+      "value": "Murale, hauteur réglable"
+    },
+    {
+      "label": "Alimentation électrique",
+      "value": "220-240 V / 50 Hz"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "Dans les couloirs d'un établissement scolaire, les vestiaires d'une salle de sport ou les espaces communs d'un site tertiaire, la fontaine murale M-4A de Canaletas offre un point d'eau fraîche sans empiéter sur la surface au sol, grâce à sa fixation directement sur le mur.",
+    "Son support de fixation permet de régler la hauteur du bec verseur, un vrai atout pour rendre l'équipement accessible aussi bien aux adultes qu'aux enfants ou aux personnes à mobilité réduite. Le raccordement se fait sur l'arrivée d'eau et l'évacuation existantes, pour une installation propre et durable.",
+    "Avec une production de 30 litres par heure, elle répond aux besoins d'un flux d'usagers soutenu tout au long de la journée. Un entretien courant du filtre et des surfaces en contact avec l'eau garantit une distribution fiable, conforme aux normes CE en vigueur."
+  ]
+}

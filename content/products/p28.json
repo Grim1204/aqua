@@ -1,0 +1,46 @@
+{
+  "id": "p28",
+  "category": "cartouche",
+  "icon": "p-carbon",
+  "image": "https://www.prodirest.com/64124-home_default/canaletas-cartouche-de-rechange-pour-m-105.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p33",
+  "subscription": true,
+  "name": "Cartouche de Rechange pour Filtre M-105",
+  "price": 67.2,
+  "rating": 4.6,
+  "reviews": 214,
+  "specLine": "Charbon actif · filtration 5 µm · compatible fontaines M-105",
+  "shortDesc": "Cartouche de rechange dédiée au filtre M-105, à base de charbon actif pour réduire le chlore et améliorer le goût de l'eau distribuée.",
+  "specs": [
+    {
+      "label": "Finesse de filtration",
+      "value": "5 µm"
+    },
+    {
+      "label": "Média filtrant",
+      "value": "Charbon actif comprimé"
+    },
+    {
+      "label": "Compatibilité",
+      "value": "Filtres M-105 et porte-filtre standard 10 pouces"
+    },
+    {
+      "label": "Débit compatible",
+      "value": "Jusqu'à 2,5 L/min"
+    },
+    {
+      "label": "Durée de vie recommandée",
+      "value": "6 mois ou 3 000 L"
+    },
+    {
+      "label": "Garantie",
+      "value": "1 an contre les défauts de fabrication"
+    }
+  ],
+  "longDesc": [
+    "Spécifiquement calibrée pour remplacer la cartouche d'origine des filtres M-105, cette recharge à charbon actif réduit le chlore résiduel, les mauvaises odeurs et les goûts indésirables de l'eau du réseau. Le résultat se ressent dès les premiers verres, aussi bien froids que tièdes.",
+    "L'installation reprend le geste habituel du remplacement de cartouche : coupure de l'arrivée d'eau, dévissage du boîtier, échange de la cartouche usagée puis remise en service. Comptez quelques minutes sans outillage spécifique, filtre à changer environ tous les six mois selon l'usage.",
+    "Pour les cafés et restaurants qui font tourner leur fontaine toute la journée, l'abonnement avec livraison tous les 3 ou 6 mois et 15 % de remise permet d'anticiper le renouvellement sans rupture de filtration ni commande de dernière minute."
+  ]
+}

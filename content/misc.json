@@ -1,0 +1,441 @@
+{
+  "BLOG": [
+    {
+      "slug": "bonbonne-ou-reseau",
+      "eyebrow": "Guide d'achat",
+      "title": "Bonbonne ou réseau : quelle fontaine choisir ?",
+      "excerpt": "Budget, usage, encombrement — les critères pour trancher entre les deux familles de fontaines.",
+      "icon": "p-bonbonne",
+      "date": "12 août 2026",
+      "readTime": "5 min",
+      "author": "Camille Vidal",
+      "body": [
+        "C'est la première question que se posent la plupart de nos clients, et la réponse dépend surtout de trois critères : le budget de départ, la fréquence d'utilisation et la place disponible.",
+        "La fontaine à bonbonne demande un investissement de départ plus faible et ne nécessite aucun raccordement : elle se pose et fonctionne immédiatement. En contrepartie, il faut prévoir le stockage des bonbonnes pleines et leur remplacement régulier, ce qui représente un coût récurrent et une manutention à anticiper si vous consommez beaucoup d'eau.",
+        "La fontaine sur réseau demande un raccordement à votre arrivée d'eau (souvent réalisable soi-même en moins de 30 minutes avec le kit fourni) et un investissement de départ plus élevé. Elle s'amortit en revanche rapidement dès que la consommation dépasse 2 à 3 bonbonnes par mois, puisqu'il ne reste alors que le coût d'une cartouche tous les 3 à 6 mois.",
+        "En pratique : pour un usage occasionnel, un studio ou une location, la bonbonne reste le choix le plus simple. Pour un foyer nombreux ou un bureau à forte fréquentation, la fontaine réseau devient rentable dès la première année et évite la manutention des bonbonnes.",
+        "Un dernier point à vérifier avant d'acheter une fontaine réseau : la pression et l'accessibilité de votre arrivée d'eau froide. Notre service client peut vous aider à valider la compatibilité avant commande."
+      ]
+    },
+    {
+      "slug": "frequence-changement-cartouche",
+      "eyebrow": "Entretien",
+      "title": "À quelle fréquence changer sa cartouche ?",
+      "excerpt": "Les repères selon votre consommation et le type de filtre pour ne jamais être à court.",
+      "icon": "i-filter",
+      "date": "2 juillet 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "body": [
+        "La durée de vie d'une cartouche dépend de trois facteurs principaux : le volume d'eau filtré, la qualité de l'eau à l'entrée (dureté, teneur en chlore) et le type de cartouche installée.",
+        "Pour une cartouche charbon actif standard, comptez entre 3 et 6 mois pour un usage familial classique (2 à 4 personnes). Un usage professionnel intensif réduit cette durée à 2-3 mois.",
+        "Les cartouches anti-tartre + UV, plus sollicitées dans les zones à eau calcaire, se changent généralement tous les 4 à 6 mois. Une cartouche sédiment, utilisée en pré-filtration, peut nécessiter un remplacement plus fréquent si votre réseau contient beaucoup de particules.",
+        "Le signe le plus fiable reste un changement de goût ou de débit : si l'eau met plus de temps à couler ou que le goût redevient perceptible, c'est le moment de changer la cartouche, même si la durée théorique n'est pas atteinte.",
+        "Pour éviter d'y penser, l'abonnement cartouches renouvelle automatiquement votre stock tous les 3 ou 6 mois selon le rythme que vous choisissez, avec 15% de réduction par rapport à l'achat à l'unité."
+      ]
+    },
+    {
+      "slug": "entretien-fontaine",
+      "eyebrow": "Pratique",
+      "title": "5 gestes pour l'entretien de votre fontaine",
+      "excerpt": "Nettoyage, désinfection et bons réflexes au quotidien pour prolonger la durée de vie de votre fontaine.",
+      "icon": "i-refresh",
+      "date": "18 juin 2026",
+      "readTime": "6 min",
+      "author": "Camille Vidal",
+      "body": [
+        "1. Nettoyez l'extérieur chaque semaine. Un simple chiffon microfibre légèrement humide suffit à retirer traces de doigts et poussière sur l'habillage, sans produit abrasif qui pourrait ternir la finition.",
+        "2. Désinfectez le circuit tous les 6 mois. Notre kit d'entretien contient un désinfectant alimentaire conçu pour être utilisé sans danger dans le circuit d'eau, à faire suivre d'un rinçage complet.",
+        "3. Changez les joints dès qu'une micro-fuite apparaît. Un léger suintement autour du robinet ou de la bonbonne indique généralement un joint fatigué, à remplacer avant qu'il ne s'aggrave.",
+        "4. Videz et nettoyez le bac récupérateur régulièrement. Cette petite grille sous les robinets accumule des résidus d'eau stagnante qui peuvent devenir un foyer bactérien si elle n'est jamais nettoyée.",
+        "5. Respectez la fréquence de changement de cartouche. C'est le geste le plus important pour la qualité de l'eau : une cartouche saturée ne filtre plus correctement, même si l'eau semble couler normalement.",
+        "En suivant ces cinq gestes simples, une fontaine AquaSource entretenue correctement dépasse largement sa durée de garantie sans perte de performance notable."
+      ]
+    },
+    {
+      "slug": "fontaine-a-eau-bureau-code-travail",
+      "eyebrow": "Réglementation",
+      "title": "Fontaine à eau au bureau : que dit le Code du travail ?",
+      "excerpt": "L'employeur a-t-il une obligation légale de fournir de l'eau fraîche à ses salariés ? Le texte exact et ce qu'il implique en pratique.",
+      "icon": "i-building",
+      "date": "28 août 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "sources": [
+        "Code du travail, article R4225-2"
+      ],
+      "body": [
+        "Beaucoup de dirigeants et de responsables d'exploitation nous posent la question avant d'équiper leurs locaux : fournir de l'eau fraîche aux salariés est-il une obligation légale, ou un simple confort optionnel ? La réponse est sans ambiguïté : c'est une obligation, fixée par le Code du travail.",
+        "L'article R4225-2 est explicite : « L'employeur met à disposition des travailleurs de l'eau potable et fraîche pour leur permettre de se désaltérer et de se rafraîchir. » Deux critères sont donc cumulatifs : l'eau doit être potable (ce qui est le cas de l'eau du réseau en France, contrôlée en continu) et fraîche, c'est-à-dire à une température réellement rafraîchissante, pas simplement tiède au sortir du robinet.",
+        "Le texte n'impose pas de matériel précis : un simple point d'eau au robinet peut suffire légalement. Mais dans les faits, dès que l'effectif grandit ou que les locaux sont éloignés d'un point d'eau (open-space, atelier, entrepôt), une fontaine devient la solution la plus simple pour respecter cette obligation sans multiplier les allers-retours ni servir une eau tiède aux heures chaudes.",
+        "Pour un open-space de plus de 20 personnes, une <a href=\"/fontaines-reseau\">fontaine sur réseau</a> raccordée directement à l'arrivée d'eau évite la gestion de bonbonnes et garantit un débit constant, même en cas de forte affluence à l'heure du déjeuner. Pour une petite équipe ou un local sans arrivée d'eau facilement accessible, une <a href=\"/fontaines-bonbonne\">fontaine à bonbonne</a> reste une solution rapide à mettre en place.",
+        "Respecter cette obligation implique aussi un entretien régulier : une eau stagnante ou une cartouche saturée ne serait plus considérée comme « fraîche et potable » au sens de l'esprit du texte. Nos <a href=\"/professionnels\">offres professionnelles</a> incluent un contrat de maintenance avec remplacement programmé des cartouches, pour rester en conformité sans y penser."
+      ]
+    },
+    {
+      "slug": "eau-robinet-ou-fontaine-filtree",
+      "eyebrow": "Qualité de l'eau",
+      "title": "Eau du robinet ou fontaine filtrée : quelle différence réelle ?",
+      "excerpt": "L'eau du robinet est déjà potable en France : la filtration change quoi, concrètement ?",
+      "icon": "i-droplet",
+      "date": "20 août 2026",
+      "readTime": "5 min",
+      "author": "Camille Vidal",
+      "body": [
+        "C'est une question légitime : en France, l'eau du robinet est parmi les plus contrôlées au monde, avec des analyses régulières et des seuils réglementaires stricts. Une fontaine filtrante n'a donc pas vocation à « rendre potable » une eau qui ne le serait pas : elle traite une eau déjà potable pour en améliorer le confort de consommation.",
+        "Le premier apport concret d'une cartouche à charbon actif est le goût et l'odeur. Le chlore utilisé pour désinfecter l'eau au traitement peut laisser un arrière-goût perceptible, surtout en sortie d'un réseau ancien ou après un séjour prolongé dans les canalisations d'un immeuble. Le charbon actif retient une grande partie de ce chlore résiduel ainsi que certains composés organiques responsables des odeurs.",
+        "Le second apport concerne le calcaire, très présent dans certaines régions (Île-de-France, pourtour méditerranéen notamment). Une eau dure n'est pas un problème sanitaire, mais elle entartre progressivement les résistances de chauffe et les circuits, et altère le goût du thé ou du café. Une cartouche anti-tartre, souvent associée au charbon actif dans nos filtres, limite ce phénomène et prolonge la durée de vie de la fontaine elle-même.",
+        "Ce que la filtration ne remplace pas : le contrôle sanitaire assuré par votre distributeur d'eau et l'ARS. Si vous avez un doute sur la qualité de l'eau de votre commune (résultats d'analyse anormaux, alerte préfectorale), la solution n'est pas une cartouche grand public mais un signalement aux autorités compétentes.",
+        "En pratique, la combinaison la plus courante pour un usage domestique reste charbon actif seul, à renouveler tous les 3 à 6 mois ; en zone d'eau dure, on y ajoute une cartouche anti-tartre. Notre page <a href=\"/cartouches-filtres\">cartouches &amp; filtres</a> détaille les compatibilités par modèle de fontaine."
+      ]
+    },
+    {
+      "slug": "fontaine-a-eau-qui-fuit",
+      "eyebrow": "Dépannage",
+      "title": "Fontaine à eau qui fuit : causes et solutions",
+      "excerpt": "Bac qui déborde, raccord mal serré, joint usé : comment diagnostiquer une fuite avant d'appeler le SAV.",
+      "icon": "i-shield",
+      "date": "5 septembre 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "body": [
+        "Avant de conclure à une panne, la première chose à vérifier est le bac récepteur amovible situé sous les robinets : c'est de loin la cause la plus fréquente de « fuite » constatée. Sur un usage intensif, il se remplit plus vite qu'on ne le pense et finit par déborder sur le sol. Le réflexe à prendre : le vider une fois par semaine en usage familial, quotidiennement en usage professionnel.",
+        "Sur une fontaine à bonbonne, une fuite au niveau du bouchon signifie généralement que la bonbonne n'est pas correctement enclenchée sur le système de perçage. Retirez-la, vérifiez que le joint du bouchon universel n'est pas fissuré ou déformé, puis reposez la bonbonne bien droite en appuyant fermement jusqu'au clic d'enclenchement.",
+        "Sur une fontaine sur réseau, la fuite se situe le plus souvent au raccord en T installé sous l'évier lors de l'installation. Un serrage à la main suffit généralement (ne jamais forcer avec un outil, au risque de fissurer le raccord plastique) ; si la fuite persiste, le joint fourni dans le kit de raccordement doit être remplacé.",
+        "Un suintement léger et localisé autour d'un robinet indique presque toujours un joint fatigué par l'usage plutôt qu'une panne du circuit interne : c'est une pièce d'usure normale sur plusieurs années d'utilisation intensive, pas un défaut de fabrication.",
+        "Si la fuite provient visiblement du circuit interne (groupe froid, réservoir) plutôt que d'un raccord externe, coupez l'arrivée d'eau ou retirez la bonbonne, débranchez la fontaine, et contactez notre <a href=\"/garantie-sav\">service après-vente</a> avec votre numéro de commande : toutes nos fontaines sont couvertes 2 ans pièces et main-d'œuvre."
+      ]
+    },
+    {
+      "slug": "consommation-electrique-fontaine-a-eau",
+      "eyebrow": "Budget",
+      "title": "Consommation électrique d'une fontaine à eau : combien ça coûte par an ?",
+      "excerpt": "Une estimation chiffrée du budget électrique annuel selon le type de fontaine, sur la base des tarifs réglementés actuels.",
+      "icon": "i-refresh",
+      "date": "1 septembre 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "body": [
+        "La consommation électrique d'une fontaine à eau dépend essentiellement de son système de réfrigération, qui fonctionne comme un petit réfrigérateur : il maintient une température fraîche en continu, avec un cycle marche/arrêt selon la sollicitation.",
+        "Pour une fontaine à bonbonne classique à usage familial ou petit bureau, la consommation se situe généralement entre 1 et 1,5 kWh par jour, selon le nombre de robinets actifs (froid seul, ou froid + chaud) et la température ambiante de la pièce. Sur une base de 0,20 € TTC le kWh (tarif réglementé courant), cela représente environ 70 à 110 € par an.",
+        "Pour une fontaine sur réseau équipée d'un groupe froid plus puissant, adaptée à un usage professionnel intensif (open-space, salle d'attente à forte affluence), la consommation peut monter à 2-3 kWh par jour, soit environ 150 à 220 € par an. Ce chiffre reste à comparer au coût que représenterait l'achat de bonbonnes équivalentes en volume, largement supérieur sur une consommation intensive.",
+        "Quelques gestes simples permettent de réduire cette facture sans sacrifier le confort : éviter de placer la fontaine en plein soleil ou à proximité d'une source de chaleur (elle consommera davantage pour compenser), et désactiver la fonction eau chaude la nuit sur les modèles qui le permettent.",
+        "Ces montants ne comprennent pas le coût des bonbonnes ou des cartouches, à budgéter séparément selon votre consommation d'eau réelle."
+      ]
+    },
+    {
+      "slug": "fontaine-a-eau-biberon-bebe",
+      "eyebrow": "Santé & famille",
+      "title": "Peut-on utiliser l'eau d'une fontaine pour un biberon de bébé ?",
+      "excerpt": "Ce qu'il faut vérifier avant d'utiliser l'eau du réseau, filtrée ou non, pour préparer un biberon.",
+      "icon": "i-droplet",
+      "date": "9 septembre 2026",
+      "readTime": "5 min",
+      "author": "Camille Vidal",
+      "sources": [
+        "Recommandations françaises relatives à l'eau du robinet pour les nourrissons (nitrates, plomb, sodium, fluor, PFAS)"
+      ],
+      "body": [
+        "C'est une question que se posent naturellement de nombreux parents équipés d'une fontaine à eau. La réponse dépend avant tout de la qualité de l'eau de votre commune, pas uniquement du fait qu'elle soit filtrée ou non par la fontaine : la filtration charbon actif de nos cartouches agit sur le goût et le chlore, pas sur les paramètres spécifiquement surveillés pour les nourrissons.",
+        "Plusieurs critères méritent une attention particulière avant 6 mois : les nitrates (seuil réglementaire à 50 mg/L, mais recommandation de rester sous 10 mg/L pour les moins de 3 mois), le plomb (lié à d'éventuelles canalisations anciennes), le sodium, et depuis peu certains composés PFAS pour lesquels un seuil spécifique s'applique désormais aux eaux destinées aux nourrissons.",
+        "Ces paramètres varient d'une commune à l'autre et ne sont pas modifiés par le passage de l'eau dans une cartouche de fontaine grand public, qui n'est pas conçue ni certifiée pour ce niveau de filtration spécifique. La cartouche améliore le goût et réduit le chlore perçu, ce qui peut rendre l'eau plus agréable, mais ne se substitue pas à une vérification de la composition de l'eau de votre secteur.",
+        "Le bon réflexe : consultez le bulletin de qualité de l'eau de votre commune (disponible en mairie ou auprès de votre distributeur), qui indique précisément les teneurs mesurées, et parlez-en à votre pédiatre en cas de doute, en particulier pour un nourrisson de moins de 6 mois. Si un dépassement est signalé sur votre secteur, mieux vaut une eau en bouteille adaptée le temps que la situation soit clarifiée.",
+        "Sur un réseau conforme et sans alerte particulière, une eau de fontaine filtrée est utilisée sans souci par de nombreuses familles pour le quotidien ; c'est surtout la vigilance sur les paramètres propres à votre commune qui doit guider la décision, pas le seul fait qu'elle passe par une cartouche filtrante."
+      ]
+    },
+    {
+      "slug": "cartouche-charbon-actif-ou-anti-tartre",
+      "eyebrow": "Guide d'achat",
+      "title": "Cartouche charbon actif ou anti-tartre : laquelle choisir ?",
+      "excerpt": "Deux technologies, deux usages : comment savoir de laquelle vous avez besoin, ou si vous devez combiner les deux.",
+      "icon": "i-filter",
+      "date": "14 août 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "body": [
+        "Ces deux cartouches répondent à des problèmes différents, et la confusion entre les deux est la question la plus fréquente de nos clients au moment de choisir leur premier renouvellement.",
+        "La cartouche charbon actif cible le goût, l'odeur et le chlore résiduel de l'eau : c'est la cartouche de base, adaptée à la grande majorité des situations, quelle que soit la dureté de l'eau de votre secteur. C'est elle qu'il faut choisir en priorité si votre seule gêne est un arrière-goût de chlore ou une odeur perceptible.",
+        "La cartouche anti-tartre cible spécifiquement le calcaire : elle limite les dépôts qui, à terme, entartrent le circuit interne de la fontaine et peuvent réduire son débit ou sa durée de vie. Elle est particulièrement recommandée si vous habitez une région à eau dure (une bouilloire ou un lave-linge qui s'entartre rapidement chez vous est un bon indice) ou si vous utilisez beaucoup la fonction eau chaude, plus sensible au tartre.",
+        "En zone d'eau dure, la combinaison des deux (souvent proposée en cartouche double action, ou en deux cartouches successives selon le modèle de fontaine) offre le meilleur résultat : goût neutre et protection du circuit. En zone d'eau douce, le charbon actif seul suffit largement, et ajouter une cartouche anti-tartre n'apporterait pas de bénéfice supplémentaire.",
+        "Pour connaître la dureté de votre eau, le bulletin de qualité disponible auprès de votre mairie ou de votre distributeur indique le titre hydrotimétrique (TH) en degrés français : au-delà de 25°f, l'eau est considérée comme dure. Notre page <a href=\"/cartouches-filtres\">cartouches &amp; filtres</a> précise la compatibilité de chaque référence avec votre modèle de fontaine."
+      ]
+    },
+    {
+      "slug": "fontaine-a-eau-ou-carafe-filtrante",
+      "eyebrow": "Comparatif",
+      "title": "Fontaine à eau ou carafe filtrante : quel est le meilleur choix ?",
+      "excerpt": "Débit, coût à l'usage, fraîcheur : comparatif honnête entre les deux solutions pour bien choisir selon votre situation.",
+      "icon": "p-bonbonne",
+      "date": "22 juillet 2026",
+      "readTime": "5 min",
+      "author": "Camille Vidal",
+      "body": [
+        "La carafe filtrante a un vrai atout : un investissement de départ très faible et aucune installation. C'est une solution pertinente pour une personne seule ou une consommation ponctuelle, sans engagement.",
+        "Ses limites apparaissent vite à l'usage régulier. La cartouche d'une carafe se change en moyenne tous les mois (parfois toutes les 2 à 4 semaines selon le volume filtré), un rythme bien plus élevé que celui d'une cartouche de fontaine (3 à 6 mois). Sur une année, le coût cumulé des cartouches de carafe dépasse fréquemment celui d'un abonnement cartouches de fontaine, pour un volume d'eau filtré souvent inférieur.",
+        "Le débit est un autre point de comparaison important : une carafe filtre l'eau lentement, par gravité, ce qui peut représenter plusieurs minutes d'attente pour remplir un grand contenant. Une fontaine délivre l'eau filtrée instantanément au robinet, un vrai gain de temps pour un foyer nombreux ou un usage professionnel.",
+        "Enfin, seule la fontaine propose une eau réellement fraîche (voire chaude sur certains modèles) à la demande : une carafe, même filtrée, reste à température ambiante ou nécessite un passage au réfrigérateur, ce qui immobilise de la place.",
+        "En résumé : la carafe convient à un usage très occasionnel ou à petit budget de départ ; la fontaine devient rapidement plus économique et plus pratique dès que la consommation dépasse 1 à 2 litres par jour, ou que le foyer compte plusieurs personnes."
+      ]
+    },
+    {
+      "slug": "louer-ou-acheter-fontaine-a-eau",
+      "eyebrow": "Budget",
+      "title": "Louer ou acheter sa fontaine à eau : que choisir ?",
+      "excerpt": "Les deux modèles économiques comparés, pour trancher selon votre horizon d'utilisation et votre trésorerie.",
+      "icon": "i-building",
+      "date": "30 juin 2026",
+      "readTime": "5 min",
+      "author": "Camille Vidal",
+      "body": [
+        "La location, souvent proposée par des prestataires spécialisés, présente l'avantage d'un investissement de départ nul et d'une maintenance généralement incluse dans le contrat. Elle peut convenir à une entreprise qui teste un nouvel espace ou qui préfère lisser ses charges mensuellement sans immobiliser de trésorerie.",
+        "Sur la durée, la location revient presque toujours plus cher que l'achat. Un contrat de location classique représente une charge mensuelle récurrente qui, cumulée sur 2 à 3 ans, dépasse largement le prix d'achat d'une fontaine équivalente, sans que vous en deveniez jamais propriétaire.",
+        "L'achat représente un investissement initial plus élevé, mais devient rentable dès la première ou la deuxième année d'usage régulier, avec pour seuls coûts récurrents l'entretien (cartouches, éventuellement un contrat de maintenance optionnel). C'est le choix le plus économique dès que l'usage est amené à durer plus de 18 à 24 mois.",
+        "Pour les professionnels, un autre argument penche pour l'achat : la fontaine devient un actif amortissable, contrairement à une charge locative pure. Nos <a href=\"/professionnels\">offres professionnelles</a> incluent d'ailleurs un contrat de maintenance à la carte, qui reproduit le confort de la location (remplacement programmé des cartouches, interlocuteur dédié) tout en restant propriétaire de l'équipement.",
+        "En résumé : la location peut se justifier pour un besoin ponctuel de quelques mois ; au-delà, l'achat est presque toujours le choix le plus rationnel financièrement."
+      ]
+    },
+    {
+      "slug": "eau-fontaine-mauvais-gout-odeur",
+      "eyebrow": "Entretien",
+      "title": "Pourquoi l'eau de ma fontaine a-t-elle un goût ou une odeur ?",
+      "excerpt": "Les causes les plus fréquentes d'un goût inhabituel, et comment y remédier rapidement.",
+      "icon": "i-filter",
+      "date": "11 juillet 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "body": [
+        "Un changement de goût est justement le signal le plus fiable qu'une cartouche arrive en fin de vie, même si la durée théorique de remplacement n'est pas encore atteinte : une cartouche saturée cesse progressivement de retenir le chlore et les composés responsables du goût, avant même que le débit ne baisse.",
+        "Si la fontaine est restée à l'arrêt plusieurs jours (vacances, local fermé), une légère stagnation dans le circuit peut aussi provoquer un goût inhabituel à la reprise : faites couler l'eau des deux robinets pendant 30 secondes à 1 minute avant la première utilisation pour renouveler l'eau du circuit interne.",
+        "Une odeur plus marquée, en particulier une odeur « de renfermé » ou légèrement sulfureuse, oriente plutôt vers un bac récepteur mal nettoyé ou un circuit qui n'a pas été désinfecté depuis longtemps : c'est le rôle du désinfectant alimentaire de notre <a href=\"/accessoires\">kit d'entretien</a>, à utiliser tous les 6 mois suivi d'un rinçage complet.",
+        "Sur une fontaine à bonbonne, vérifiez également la bonbonne elle-même : une fois ouverte, son contenu doit être consommé dans un délai raisonnable (quelques semaines), au-delà duquel un goût de plastique ou de stagnation peut apparaître, sans lien avec la fontaine.",
+        "Si le goût persiste après remplacement de la cartouche et nettoyage complet du circuit, le problème vient probablement de l'eau du réseau elle-même à ce moment précis (travaux sur le réseau, désinfection ponctuelle par votre distributeur) : contactez votre mairie pour vérifier si un avis a été émis sur votre secteur."
+      ]
+    },
+    {
+      "slug": "installer-fontaine-reseau-etapes",
+      "eyebrow": "Installation",
+      "title": "Installer une fontaine à eau sur réseau : le guide étape par étape",
+      "excerpt": "Aucun plombier nécessaire dans la plupart des cas : voici les étapes concrètes, de la vérification de l'arrivée d'eau à la première mise en service.",
+      "icon": "p-network",
+      "date": "25 juin 2026",
+      "readTime": "6 min",
+      "author": "Camille Vidal",
+      "body": [
+        "1. Vérifiez l'accessibilité de votre arrivée d'eau froide. La plupart de nos fontaines sur réseau se raccordent sous l'évier ou à proximité immédiate de l'emplacement souhaité, via le kit de raccordement fourni (tuyau, raccord en T, robinet d'arrêt). Une arrivée d'eau froide standard avec une pression domestique classique suffit, sans équipement particulier.",
+        "2. Coupez l'arrivée d'eau avant toute intervention, puis installez le raccord en T fourni entre le robinet existant et le flexible d'alimentation de l'évier, en serrant à la main sans forcer sur les filetages plastique.",
+        "3. Raccordez le tuyau du kit entre ce raccord en T et l'arrivée d'eau de la fontaine, en veillant à ne pas créer de coude trop serré qui limiterait le débit. La longueur de tuyau fournie couvre la plupart des configurations sous évier ; pour une fontaine plus éloignée, un tuyau rallonge compatible peut être nécessaire.",
+        "4. Rouvrez l'arrivée d'eau progressivement et vérifiez l'absence de fuite à chaque raccord avant de brancher électriquement la fontaine. Laissez couler l'eau des deux robinets pendant une minute pour purger l'air du circuit et évacuer d'éventuelles particules de montage avant la première utilisation.",
+        "5. Comptez environ 20 à 30 minutes pour une installation complète en configuration standard. En cas de doute sur la compatibilité de votre installation (absence d'arrivée d'eau froide accessible, pression trop faible), notre <a href=\"/contact\">service client</a> peut vous accompagner avant votre commande pour éviter toute mauvaise surprise."
+      ]
+    },
+    {
+      "slug": "quelle-fontaine-pour-petit-bureau",
+      "eyebrow": "Guide d'achat",
+      "title": "Quelle fontaine choisir pour un petit bureau (moins de 10 personnes) ?",
+      "excerpt": "Nos recommandations concrètes selon la configuration de vos locaux, sans surinvestir dans du matériel surdimensionné.",
+      "icon": "i-building",
+      "date": "3 août 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "body": [
+        "Pour une équipe de cette taille, le critère décisif n'est généralement pas la capacité de production d'eau (toutes nos fontaines couvrent largement ce besoin), mais l'accessibilité d'une arrivée d'eau et le budget disponible.",
+        "Si vos locaux disposent d'un point d'eau facilement accessible près de la zone de pause, une <a href=\"/fontaines-reseau\">fontaine sur réseau</a> d'entrée de gamme est le choix le plus rentable sur la durée : aucune gestion de bonbonne, un coût d'usage limité au remplacement d'une cartouche tous les 3 à 6 mois, pour un investissement de départ rapidement amorti sur une petite équipe qui consomme peu de bonbonnes de toute façon.",
+        "Si le raccordement est plus complexe (local loué sans possibilité de travaux, point d'eau éloigné), une <a href=\"/fontaines-bonbonne\">fontaine à bonbonne</a> reste la solution la plus simple à mettre en service immédiatement, avec un investissement de départ plus faible.",
+        "Un modèle avec fonction eau chaude est un vrai plus dans un petit bureau : il évite d'investir séparément dans une bouilloire pour le thé ou le café instantané, un détail apprécié qui simplifie l'espace de pause.",
+        "Pour une dizaine de personnes, il n'est généralement pas nécessaire de viser les modèles à très forte capacité pensés pour les grands open-spaces : un modèle standard, correctement entretenu, couvre confortablement ce volume d'usage. Notre page <a href=\"/professionnels\">professionnels</a> propose des tarifs dégressifs dès 3 fontaines commandées si vous équipez plusieurs sites."
+      ]
+    },
+    {
+      "slug": "normes-certifications-fontaine-a-eau",
+      "eyebrow": "Qualité",
+      "title": "Fontaines à eau : quelles normes et certifications vérifier avant d'acheter ?",
+      "excerpt": "Marquage CE, matériaux au contact alimentaire : les repères concrets pour s'assurer d'acheter un équipement conforme.",
+      "icon": "i-shield",
+      "date": "17 août 2026",
+      "readTime": "4 min",
+      "author": "Camille Vidal",
+      "body": [
+        "Deux repères réglementaires s'appliquent à tout appareil de distribution d'eau vendu en France et en Europe, et méritent d'être vérifiés avant un achat, en particulier auprès de vendeurs peu transparents sur l'origine de leur matériel.",
+        "Le marquage CE, obligatoire pour tout appareil électrique mis sur le marché européen, atteste de la conformité aux exigences essentielles de sécurité électrique (directive basse tension) : c'est un prérequis non négociable, pas une option qualité.",
+        "Les matériaux en contact direct avec l'eau (réservoirs, tuyaux internes, robinets) doivent être conformes à la réglementation européenne sur les matériaux destinés au contact alimentaire (règlement CE n°1935/2004), qui garantit qu'ils ne relarguent pas de substances nocives dans l'eau distribuée. C'est ce qui justifie l'usage d'ABS ou d'inox alimentaire plutôt que des plastiques génériques sur les fontaines de qualité.",
+        "Au-delà de ces deux exigences réglementaires, certaines certifications volontaires (essais de migration, tests de matériaux sans BPA) apportent une garantie supplémentaire, sans être obligatoires légalement. Elles constituent un bon indicateur du sérieux du fabricant, en complément d'une garantie constructeur significative (2 ans minimum sur une fontaine de qualité).",
+        "En pratique, un vendeur sérieux doit pouvoir vous communiquer ces informations sans difficulté : marquage CE, matériaux utilisés pour les parties en contact avec l'eau, et durée de garantie. Consultez notre page <a href=\"/qualite\">qualité &amp; filtration</a> pour le détail des certifications de nos gammes."
+      ]
+    }
+  ],
+  "FAQ": [
+    {
+      "q": "Quels sont les délais de livraison ?",
+      "a": "Les commandes passées avant 14h sont expédiées le jour même. Comptez 24 à 48h pour une livraison en France métropolitaine, et la livraison est offerte dès 49€ d'achat."
+    },
+    {
+      "q": "Puis-je retourner une fontaine si elle ne me convient pas ?",
+      "a": "Oui, vous disposez de 30 jours à compter de la réception pour nous retourner votre fontaine dans son emballage d'origine et être intégralement remboursé."
+    },
+    {
+      "q": "Comment fonctionne l'abonnement cartouches ?",
+      "a": "Vous choisissez une fréquence (3 ou 6 mois) lors de votre première commande de cartouches : nous vous les expédions automatiquement à cette fréquence, avec 15% de réduction. Résiliable à tout moment depuis votre compte."
+    },
+    {
+      "q": "Une fontaine sur réseau nécessite-t-elle un plombier ?",
+      "a": "Dans la grande majorité des cas, non : le kit de raccordement fourni permet une installation en moins de 30 minutes sur une arrivée d'eau froide standard, sans outil spécifique."
+    },
+    {
+      "q": "Les cartouches sont-elles compatibles avec toutes les fontaines ?",
+      "a": "Nos cartouches universelles couvrent la majorité des fontaines bonbonne et réseau du marché. La fiche de chaque cartouche précise ses compatibilités ; en cas de doute, notre service client peut vérifier avant votre commande."
+    },
+    {
+      "q": "Quelle garantie sur les fontaines ?",
+      "a": "Toutes nos fontaines bénéficient d'une garantie constructeur de 2 ans, pièces et main d'œuvre. Un contrat de maintenance étendu est disponible pour les modèles professionnels."
+    },
+    {
+      "q": "Proposez-vous des tarifs pour les entreprises ?",
+      "a": "Oui, une grille tarifaire dégressive s'applique dès 3 fontaines commandées. Contactez notre équipe professionnels pour un devis personnalisé sous 24h ouvrées."
+    },
+    {
+      "q": "Que faire si ma fontaine fuit ou ne refroidit plus ?",
+      "a": "Contactez notre service client avec votre numéro de commande : dans la majorité des cas, une pièce de rechange (joint, cartouche) suffit et vous est expédiée sous 24h."
+    }
+  ],
+  "TESTIMONIALS": [
+    {
+      "name": "Camille R.",
+      "loc": "Lyon",
+      "rating": 5,
+      "quote": "La fontaine bonbonne est silencieuse et le goût de l'eau a changé du tout au tout. Installation faite en 10 minutes.",
+      "product": "p1"
+    },
+    {
+      "name": "Thomas B.",
+      "loc": "Nantes",
+      "rating": 5,
+      "quote": "On a équipé nos deux salles de pause avec la fontaine réseau. Plus besoin de gérer les bonbonnes, un vrai gain de temps.",
+      "product": "p8"
+    },
+    {
+      "name": "Nadia F.",
+      "loc": "Toulouse",
+      "rating": 5,
+      "quote": "Le lot de cartouches arrive automatiquement chaque trimestre, je n'ai plus jamais été à court. Service client très réactif.",
+      "product": "p29"
+    },
+    {
+      "name": "Julien M.",
+      "loc": "Bordeaux",
+      "rating": 4,
+      "quote": "Très bon rapport qualité-prix pour cette fontaine à bonbonne compacte. Simple, efficace, livrée en 24h.",
+      "product": "p2"
+    },
+    {
+      "name": "Sophie L.",
+      "loc": "Lille",
+      "rating": 5,
+      "quote": "La fontaine réseau tient très bien la charge de notre open-space de 35 personnes. Aucun temps d'attente aux heures de pointe.",
+      "product": "p20"
+    }
+  ],
+  "ABOUT": {
+    "story": [
+      "AquaSource est né d'un constat simple : trouver une eau fraîche et bien filtrée au quotidien relève encore trop souvent du casse-tête, entre bonbonnes difficiles à comparer et cartouches génériques aux performances incertaines. Nous avons voulu construire une boutique qui simplifie ce choix, avec une gamme resserrée mais couvrant tous les usages, des particuliers aux professionnels.",
+      "Notre équipe sélectionne chaque fontaine et chaque cartouche selon des critères précis : fiabilité du mécanisme, disponibilité des pièces détachées, compatibilité avec les formats de bonbonne les plus courants et, pour les cartouches, résultats de filtration mesurables. Un produit qui ne remplit pas ces critères ne rejoint pas notre catalogue.",
+      "Aujourd'hui, AquaSource accompagne aussi bien des foyers que des bureaux et des salles d'attente, avec la même exigence : une eau meilleure, un entretien simple, et un service client capable de répondre vite en cas de besoin."
+    ],
+    "values": [
+      {
+        "icon": "i-filter",
+        "h": "Exigence sur la filtration",
+        "p": "Chaque référence de cartouche est choisie pour ses résultats mesurés, pas uniquement pour son prix."
+      },
+      {
+        "icon": "i-leaf",
+        "h": "Impact environnemental",
+        "p": "Moins de bouteilles plastique achetées, cartouches recyclables, matériaux durables : un critère à chaque sélection produit."
+      },
+      {
+        "icon": "i-headset",
+        "h": "Service client accessible",
+        "p": "Une équipe basée en France, joignable du lundi au samedi, pour répondre avant et après l'achat."
+      },
+      {
+        "icon": "i-shield",
+        "h": "Transparence",
+        "p": "Prix clairs, spécifications complètes sur chaque fiche produit, et politique de retour simple sans petites lignes."
+      }
+    ],
+    "stats": [
+      {
+        "value": "14",
+        "label": "références sélectionnées"
+      },
+      {
+        "value": "2 ans",
+        "label": "de garantie constructeur"
+      },
+      {
+        "value": "24-48h",
+        "label": "délai de livraison moyen"
+      },
+      {
+        "value": "4,7/5",
+        "label": "note moyenne clients"
+      }
+    ]
+  },
+  "QUALITY": {
+    "intro": "La qualité d'une fontaine à eau se joue autant sur le mécanisme que sur la filtration. Voici comment nous sélectionnons et contrôlons chaque référence de notre catalogue avant qu'elle ne rejoigne notre boutique.",
+    "pillars": [
+      {
+        "icon": "i-filter",
+        "h": "Filtration testée en laboratoire",
+        "p": "Chaque référence de cartouche est évaluée par un laboratoire indépendant sur sa capacité à réduire le chlore, le goût et, selon les modèles, le tartre ou les bactéries, avant d'être ajoutée au catalogue."
+      },
+      {
+        "icon": "i-shield",
+        "h": "Matériaux sans BPA",
+        "p": "Les réservoirs et circuits d'eau de nos fontaines sont fabriqués en matériaux alimentaires sans BPA, conformes aux normes européennes en vigueur pour le contact avec l'eau potable."
+      },
+      {
+        "icon": "i-check",
+        "h": "Contrôle avant expédition",
+        "p": "Chaque fontaine est vérifiée avant expédition : étanchéité du circuit, fonctionnement des thermostats et conformité de l'emballage pour un transport sans dommage."
+      },
+      {
+        "icon": "i-headset",
+        "h": "SAV réactif et pièces disponibles",
+        "p": "Les pièces d'usure (joints, robinets, cartouches) restent disponibles plusieurs années après l'achat, avec un délai de réponse SAV de 24h ouvrées."
+      }
+    ],
+    "process": [
+      {
+        "h": "1. Sélection du fournisseur",
+        "p": "Nous évaluons la fiabilité du mécanisme, la disponibilité des pièces détachées et les certifications matériaux avant de référencer un modèle."
+      },
+      {
+        "h": "2. Tests de filtration",
+        "p": "Les cartouches sont testées en laboratoire indépendant sur leur capacité de filtration réelle, pas seulement sur les données constructeur."
+      },
+      {
+        "h": "3. Contrôle qualité à réception",
+        "p": "Un échantillon de chaque lot reçu en entrepôt est vérifié avant mise en vente : étanchéité, finitions, conformité de l'emballage."
+      },
+      {
+        "h": "4. Suivi après-vente",
+        "p": "Les retours et demandes de SAV sont analysés pour détecter tout défaut récurrent et, le cas échéant, retirer une référence du catalogue."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Vos cartouches sont-elles testées par un organisme indépendant ?",
+        "a": "Oui, chaque référence de cartouche est évaluée en laboratoire indépendant sur sa capacité de filtration avant d'être ajoutée à notre catalogue."
+      },
+      {
+        "q": "Les matériaux au contact de l'eau sont-ils sûrs ?",
+        "a": "Tous les réservoirs et circuits d'eau de nos fontaines sont en matériaux alimentaires sans BPA, conformes aux normes européennes."
+      },
+      {
+        "q": "Que faites-vous si un produit présente un défaut récurrent ?",
+        "a": "Nous analysons les retours SAV en continu ; toute référence présentant un taux de défaut anormal est retirée du catalogue et ses acheteurs sont contactés."
+      }
+    ]
+  }
+}

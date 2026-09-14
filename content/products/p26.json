@@ -1,0 +1,45 @@
+{
+  "id": "p26",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58395-home_default/canaletas-fontaine-a-eau-sur-pied-m-6apelv.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p31",
+  "name": "Fontaine à Eau sur Pied M-6APELV",
+  "price": 972,
+  "rating": 4.7,
+  "reviews": 29,
+  "specLine": "Sur pied · 35 L · col de cygne · pédale mains libres",
+  "shortDesc": "Fontaine à eau sur pied associant bec col de cygne et déclenchement à pédale, pour un remplissage mains libres de gourdes et carafes en cuisine professionnelle.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "103 x 35 x 40 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "28 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "35 L/h"
+    },
+    {
+      "label": "Bec de distribution",
+      "value": "Col de cygne"
+    },
+    {
+      "label": "Déclenchement",
+      "value": "Pédale au sol, usage mains libres"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-6APELV réunit deux atouts recherchés en restauration professionnelle : un bec col de cygne, pratique pour remplir de grands contenants, et un déclenchement à pédale qui rend l'usage entièrement mains libres.",
+    "Ce fonctionnement convient particulièrement aux cuisines et arrière-salles où le personnel manipule des aliments et doit limiter les contacts avec les surfaces communes. L'installation sur pied et le raccordement direct au réseau d'eau facilitent son intégration dans un flux de travail existant.",
+    "Avec 35 litres d'eau fraîche par heure, elle accompagne sans difficulté les services soutenus. Le col de cygne et la pédale, deux éléments mécaniques simples, se nettoient et s'entretiennent facilement, un point clé pour rester conforme aux exigences d'hygiène en restauration collective."
+  ]
+}

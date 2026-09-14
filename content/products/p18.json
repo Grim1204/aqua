@@ -1,0 +1,45 @@
+{
+  "id": "p18",
+  "category": "reseau",
+  "icon": "p-network",
+  "image": "https://www.prodirest.com/58380-home_default/canaletas-fontaine-a-eau-murale-m-4alv.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau Murale M-4ALV",
+  "price": 905.4,
+  "rating": 4.6,
+  "reviews": 19,
+  "specLine": "Murale · 30 L · col de cygne · hauteur réglable",
+  "shortDesc": "Fontaine murale avec bec col de cygne, pratique pour remplir gourdes et carafes. Sa hauteur réglable en fait une solution polyvalente pour les espaces professionnels à fort passage.",
+  "specs": [
+    {
+      "label": "Dimensions (H x L x P)",
+      "value": "90 x 35 x 30 cm (réglable)"
+    },
+    {
+      "label": "Poids",
+      "value": "17 kg"
+    },
+    {
+      "label": "Production d'eau fraîche",
+      "value": "30 L/h"
+    },
+    {
+      "label": "Bec de distribution",
+      "value": "Col de cygne"
+    },
+    {
+      "label": "Fixation",
+      "value": "Murale, hauteur réglable"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-4ALV reprend l'esprit compact et pratique de la fontaine murale Canaletas, avec une différence de taille pour les usages professionnels intensifs : son bec col de cygne, plus haut et plus dégagé, qui facilite le remplissage direct de gourdes, carafes ou verres de grande taille.",
+    "Comme la M-4A, elle se fixe au mur et se raccorde à l'arrivée d'eau existante, avec un réglage de hauteur qui l'adapte à différents publics, du personnel administratif aux usagers d'un espace d'accueil. L'installation reste rapide et ne nécessite pas d'aménagement lourd.",
+    "Avec 30 litres d'eau fraîche par heure, elle est calibrée pour les périodes de forte affluence, en salle de pause comme en zone d'accueil. Un entretien régulier du bec et du circuit de filtration assure une eau fraîche constante et une hygiène maîtrisée au fil des usages."
+  ]
+}

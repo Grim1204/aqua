@@ -1,0 +1,33 @@
+{
+  "order": 4,
+  "slug": "accessoires",
+  "title": "Accessoires & entretien",
+  "icon": "p-kit",
+  "intro": "Tout ce qu'il faut pour prolonger la durée de vie de votre fontaine et simplifier son usage au quotidien.",
+  "seoIntro": "Un entretien régulier prolonge sensiblement la durée de vie d'une fontaine à eau et garantit une eau de qualité constante. Désinfectant alimentaire, joints de rechange, supports de manutention ou gobelets réutilisables : ces accessoires accompagnent votre fontaine au quotidien et complètent naturellement l'achat d'une fontaine ou d'une cartouche.",
+  "guide": [
+    {
+      "h": "Un entretien simple, deux fois par an",
+      "p": [
+        "Un nettoyage complet du circuit tous les 6 mois, associé au respect de la fréquence de changement de cartouche, suffit à maintenir une fontaine en parfait état plusieurs années.",
+        "Le kit d'entretien complet regroupe tout le nécessaire pour cette opération, sans avoir à commander séparément chaque élément."
+      ]
+    },
+    {
+      "h": "Des accessoires pensés pour le quotidien",
+      "p": [
+        "Le support à roulettes facilite le changement des bonbonnes les plus lourdes, tandis que les gobelets réutilisables réduisent l'usage de gobelets jetables en bureau ou salle d'attente."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le désinfectant est-il sans danger pour l'eau potable ?",
+      "a": "Oui, il s'agit d'un désinfectant alimentaire spécialement conçu pour les circuits d'eau, à utiliser suivi d'un rinçage complet."
+    },
+    {
+      "q": "À quelle fréquence remplacer les joints ?",
+      "a": "Dès qu'une micro-fuite apparaît autour du robinet ou de la bonbonne, généralement tous les 12 à 18 mois en usage normal."
+    }
+  ]
+}

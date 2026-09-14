@@ -1,0 +1,46 @@
+{
+  "id": "p1",
+  "category": "bonbonne",
+  "icon": "p-bonbonne",
+  "image": "https://www.prodirest.com/58366-home_default/canaletas-fontaine-a-eau-avec-bombonne-m-77.jpg",
+  "brand": "Canaletas",
+  "bundleWith": "p29",
+  "name": "Fontaine à Eau avec Bonbonne M-77",
+  "price": 572.4,
+  "badge": "Best-seller",
+  "rating": 4.6,
+  "reviews": 34,
+  "specLine": "Bonbonne 18 L · 2 robinets froid/ambiant · habillage ABS",
+  "shortDesc": "Fontaine à bonbonne robuste au format classique, pensée pour équiper rapidement un accueil, un bureau ou une salle de pause sans travaux de plomberie.",
+  "specs": [
+    {
+      "label": "Alimentation",
+      "value": "Bonbonne 18 L (non incluse)"
+    },
+    {
+      "label": "Robinets",
+      "value": "2 (froid et température ambiante)"
+    },
+    {
+      "label": "Dimensions",
+      "value": "31 x 31 x 97 cm"
+    },
+    {
+      "label": "Poids",
+      "value": "9,5 kg"
+    },
+    {
+      "label": "Habillage",
+      "value": "ABS qualité alimentaire"
+    },
+    {
+      "label": "Garantie",
+      "value": "2 ans pièces et main-d'œuvre"
+    }
+  ],
+  "longDesc": [
+    "La M-77 est la fontaine à bonbonne d'entrée de gamme Canaletas : aucun raccordement au réseau d'eau n'est nécessaire, il suffit de la brancher et de poser une bonbonne pour la mettre en service. C'est la solution la plus rapide à installer, idéale pour un cabinet médical, un petit commerce ou un bureau qui souhaite proposer de l'eau fraîche sans intervention d'un plombier.",
+    "Son bac récepteur amovible facilite le nettoyage quotidien, et l'habillage en ABS résiste bien aux usages intensifs d'un passage professionnel. Elle fonctionne avec les bonbonnes recyclables de 18 L disponibles sur AquaSource, à faire tourner selon la fréquentation du point d'eau.",
+    "Les deux robinets (eau froide et eau à température ambiante) couvrent les besoins courants d'un accueil ou d'une salle d'attente. Pour prolonger sa durée de vie, pensez à la cartouche de charbon actif universelle proposée en accessoire, qui affine encore le goût de l'eau distribuée."
+  ]
+}
