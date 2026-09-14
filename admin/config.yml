@@ -1,0 +1,111 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Permet de tester l'admin en local avant de tout déployer, avec :
+#   npx decap-server
+# puis en ouvrant /admin/#/?local_backend=true — sans effet en production.
+local_backend: true
+
+publish_mode: simple
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "products"
+    label: "Produits"
+    label_singular: "Produit"
+    folder: "content/products"
+    create: true
+    delete: true
+    slug: "{{fields.id}}"
+    summary: "{{name}} — {{price}} € ({{id}})"
+    fields:
+      - { label: "Identifiant (unique, format pXX — ex. p41)", name: "id", widget: "string", hint: "Ne modifiez jamais l'identifiant d'un produit existant : il est utilisé ailleurs sur le site (paquets, recommandations)." }
+      - label: "Catégorie"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Fontaines à bonbonne", value: "bonbonne" }
+          - { label: "Fontaines sur réseau", value: "reseau" }
+          - { label: "Cartouches & filtres", value: "cartouche" }
+          - { label: "Accessoires & entretien", value: "accessoire" }
+      - label: "Icône"
+        name: "icon"
+        widget: "select"
+        options:
+          - { label: "Bonbonne", value: "p-bonbonne" }
+          - { label: "Réseau", value: "p-network" }
+          - { label: "Professionnel", value: "p-pro" }
+          - { label: "Cartouche charbon", value: "p-carbon" }
+          - { label: "Cartouche UV", value: "p-uv" }
+          - { label: "Kit / accessoire", value: "p-kit" }
+      - { label: "Photo", name: "image", widget: "image", hint: "Glissez une image pour l'héberger directement sur le site, ou collez une URL existante." }
+      - { label: "Marque", name: "brand", widget: "string", required: false }
+      - { label: "Produit complémentaire suggéré (identifiant, ex. p29)", name: "bundleWith", widget: "string", required: false }
+      - { label: "Nom du produit", name: "name", widget: "string" }
+      - { label: "Prix (€)", name: "price", widget: "number", value_type: "float" }
+      - { label: "Badge (ex. Best-seller)", name: "badge", widget: "string", required: false }
+      - { label: "Note moyenne (ex. 4.6)", name: "rating", widget: "number", value_type: "float", required: false }
+      - { label: "Nombre d'avis", name: "reviews", widget: "number", value_type: "int", required: false }
+      - { label: "Ligne de caractéristiques (résumé court affiché sous le nom)", name: "specLine", widget: "string" }
+      - { label: "Description courte", name: "shortDesc", widget: "text" }
+      - label: "Caractéristiques techniques"
+        name: "specs"
+        widget: "list"
+        fields:
+          - { label: "Caractéristique", name: "label", widget: "string" }
+          - { label: "Valeur", name: "value", widget: "string" }
+      - label: "Description longue (un paragraphe par ligne)"
+        name: "longDesc"
+        widget: "list"
+        field: { label: "Paragraphe", name: "paragraph", widget: "text" }
+
+  - name: "categories"
+    label: "Catégories"
+    label_singular: "Catégorie"
+    folder: "content/categories"
+    create: false
+    delete: false
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields:
+      - { label: "Ordre d'affichage (1 = premier)", name: "order", widget: "number", value_type: "int" }
+      - { label: "Slug (URL, ne pas modifier)", name: "slug", widget: "string" }
+      - { label: "Titre", name: "title", widget: "string" }
+      - label: "Icône"
+        name: "icon"
+        widget: "select"
+        options:
+          - { label: "Bonbonne", value: "p-bonbonne" }
+          - { label: "Réseau", value: "p-network" }
+          - { label: "Cartouche", value: "p-carbon" }
+          - { label: "Kit / accessoire", value: "p-kit" }
+      - { label: "Introduction courte (page catégorie)", name: "intro", widget: "text" }
+      - { label: "Introduction SEO (plus longue)", name: "seoIntro", widget: "text" }
+      - label: "Guide d'achat (sections)"
+        name: "guide"
+        widget: "list"
+        fields:
+          - { label: "Titre de la section", name: "h", widget: "string" }
+          - label: "Paragraphes"
+            name: "p"
+            widget: "list"
+            field: { label: "Paragraphe", name: "paragraph", widget: "text" }
+      - label: "Questions fréquentes de cette catégorie"
+        name: "faq"
+        widget: "list"
+        fields:
+          - { label: "Question", name: "q", widget: "string" }
+          - { label: "Réponse", name: "a", widget: "text" }
+
+  - name: "settings"
+    label: "Réglages généraux"
+    files:
+      - name: "shipping"
+        label: "Livraison"
+        file: "content/settings.json"
+        fields:
+          - { label: "Montant à partir duquel la livraison est offerte (€)", name: "freeShippingThreshold", widget: "number", value_type: "float" }
+          - { label: "Frais de livraison standard (€)", name: "standardShippingFee", widget: "number", value_type: "float" }
+          - { label: "Frais de livraison express (€)", name: "expressShippingFee", widget: "number", value_type: "float" }
