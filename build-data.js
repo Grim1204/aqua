@@ -7,7 +7,7 @@
  * fois qu'un produit, une catégorie ou un réglage est modifié via l'interface
  * d'administration (Decap CMS, /admin) et poussé sur le dépôt Git.
  *
- * Il peut aussi être lancé manuellement : `node build-data.js`.
+ * Il peut aussi être lancé manuellement : `node build-data.js`.a
  *
  * Sources lues :
  *   content/products/*.json     -> un fichier par produit
@@ -75,6 +75,7 @@ function buildCategories(){
   entries.forEach(function(e){
     var data = Object.assign({}, e.data);
     delete data.order;
+    delete data.key;
     out[e.file] = data;
   });
   return out;
