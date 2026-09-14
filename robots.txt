@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /panier
+Disallow: /commande
+Disallow: /compte
+
+Sitemap: https://aquasourcefontaine.fr/sitemap.xml
